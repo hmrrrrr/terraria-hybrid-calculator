@@ -20,6 +20,8 @@ scales = {
     "maxMinions": 10,
     "meleeSpeed": 50,
     "moveSpeed": 0.01,
+    "statManaMax2": 0.1,
+    "manaCost": 100
 }
 
 
@@ -75,7 +77,7 @@ def get_armor_set_score(armor_set: list[Armor], sf) -> float:
     
     return score
 
-SCORE_CUTOFF = 20
+SCORE_CUTOFF = 3
 
 with open("item_ids_parsed.json", "r") as f:
     ITEM_IDS: dict = json.load(f)
