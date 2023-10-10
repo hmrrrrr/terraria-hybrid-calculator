@@ -19,7 +19,7 @@ scales = {
     "minionDamage": 100,
     "maxMinions": 10,
     "meleeSpeed": 50,
-    "moveSpeed": 0,
+    "moveSpeed": 0.01,
 }
 
 
