@@ -1,59 +1,129 @@
 {
     "37": {
         "defense": 1,
-        "headSlot": 10
+        "headSlot": 10,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Goggles",
+        "name": "Goggles",
+        "name_id": "Goggles"
     },
     "76": {
         "defense": 1,
-        "legSlot": 1
+        "legSlot": 1,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Copper armor",
+        "name": "Copper Greaves",
+        "name_id": "CopperGreaves"
     },
     "77": {
         "defense": 2,
-        "legSlot": 2
+        "legSlot": 2,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Iron armor",
+        "name": "Iron Greaves",
+        "name_id": "IronGreaves"
     },
     "78": {
         "defense": 3,
-        "legSlot": 3
+        "legSlot": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Silver armor",
+        "name": "Silver Greaves",
+        "name_id": "SilverGreaves"
     },
     "79": {
         "defense": 4,
-        "legSlot": 4
+        "legSlot": 4,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gold armor",
+        "name": "Gold Greaves",
+        "name_id": "GoldGreaves"
     },
     "80": {
         "defense": 2,
-        "bodySlot": 1
+        "bodySlot": 1,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Copper armor",
+        "name": "Copper Chainmail",
+        "name_id": "CopperChainmail"
     },
     "81": {
         "defense": 3,
-        "bodySlot": 2
+        "bodySlot": 2,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Iron armor",
+        "name": "Iron Chainmail",
+        "name_id": "IronChainmail"
     },
     "82": {
         "defense": 4,
-        "bodySlot": 3
+        "bodySlot": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Silver armor",
+        "name": "Silver Chainmail",
+        "name_id": "SilverChainmail"
     },
     "83": {
         "defense": 5,
-        "bodySlot": 4
+        "bodySlot": 4,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gold armor",
+        "name": "Gold Chainmail",
+        "name_id": "GoldChainmail"
     },
     "88": {
         "defense": 2,
-        "headSlot": 11
+        "headSlot": 11,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Mining armor",
+        "name": "Mining Helmet",
+        "name_id": "MiningHelmet"
     },
     "89": {
         "defense": 1,
-        "headSlot": 1
+        "headSlot": 1,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Copper armor",
+        "name": "Copper Helmet",
+        "name_id": "CopperHelmet"
     },
     "90": {
         "defense": 2,
-        "headSlot": 2
+        "headSlot": 2,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Iron armor",
+        "name": "Iron Helmet",
+        "name_id": "IronHelmet"
     },
     "91": {
         "defense": 3,
-        "headSlot": 3
+        "headSlot": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Silver armor",
+        "name": "Silver Helmet",
+        "name_id": "SilverHelmet"
     },
     "92": {
         "defense": 4,
-        "headSlot": 4
+        "headSlot": 4,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gold armor",
+        "name": "Gold Helmet",
+        "name_id": "GoldHelmet"
     },
     "100": {
         "defense": 6,
@@ -71,7 +141,12 @@
                 "value": 5,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Shadow armor",
+        "name": "Shadow Greaves",
+        "name_id": "ShadowGreaves"
     },
     "101": {
         "defense": 7,
@@ -89,7 +164,12 @@
                 "value": 5,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Shadow armor",
+        "name": "Shadow Scalemail",
+        "name_id": "ShadowScalemail"
     },
     "102": {
         "defense": 6,
@@ -107,7 +187,12 @@
                 "value": 5,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Shadow armor",
+        "name": "Shadow Helmet",
+        "name_id": "ShadowHelmet"
     },
     "123": {
         "defense": 5,
@@ -117,7 +202,12 @@
                 "value": 0.09,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Meteor armor",
+        "name": "Meteor Helmet",
+        "name_id": "MeteorHelmet"
     },
     "124": {
         "defense": 6,
@@ -127,7 +217,12 @@
                 "value": 0.09,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Meteor armor",
+        "name": "Meteor Suit",
+        "name_id": "MeteorSuit"
     },
     "125": {
         "defense": 5,
@@ -137,7 +232,12 @@
                 "value": 0.09,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Meteor armor",
+        "name": "Meteor Leggings",
+        "name_id": "MeteorLeggings"
     },
     "151": {
         "defense": 6,
@@ -147,7 +247,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Necro armor",
+        "name": "Necro Helmet",
+        "name_id": "NecroHelmet"
     },
     "152": {
         "defense": 7,
@@ -157,7 +262,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Necro armor",
+        "name": "Necro Breastplate",
+        "name_id": "NecroBreastplate"
     },
     "153": {
         "defense": 6,
@@ -167,7 +277,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Necro armor",
+        "name": "Necro Greaves",
+        "name_id": "NecroGreaves"
     },
     "156": {
         "defense": 1
@@ -194,7 +309,12 @@
                 "value": 6,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Jungle armor",
+        "name": "Jungle Hat",
+        "name_id": "JungleHat"
     },
     "229": {
         "defense": 6,
@@ -208,7 +328,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Jungle armor",
+        "name": "Jungle Shirt",
+        "name_id": "JungleShirt"
     },
     "230": {
         "defense": 6,
@@ -222,7 +347,12 @@
                 "value": 6,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Jungle armor",
+        "name": "Jungle Pants",
+        "name_id": "JunglePants"
     },
     "231": {
         "defense": 8,
@@ -232,7 +362,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Molten armor",
+        "name": "Molten Helmet",
+        "name_id": "MoltenHelmet"
     },
     "232": {
         "defense": 9,
@@ -242,7 +377,12 @@
                 "value": 0.07,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Molten armor",
+        "name": "Molten Breastplate",
+        "name_id": "MoltenBreastplate"
     },
     "233": {
         "defense": 8,
@@ -252,7 +392,12 @@
                 "value": 0.07,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Molten armor",
+        "name": "Molten Greaves",
+        "name_id": "MoltenGreaves"
     },
     "238": {
         "headSlot": 14,
@@ -262,7 +407,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Wizard Hat",
+        "name": "Wizard Hat",
+        "name_id": "WizardHat"
     },
     "256": {
         "headSlot": 22,
@@ -280,7 +430,12 @@
                 "value": 3,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Ninja armor",
+        "name": "Ninja Hood",
+        "name_id": "NinjaHood"
     },
     "257": {
         "bodySlot": 14,
@@ -298,7 +453,12 @@
                 "value": 3,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Ninja armor",
+        "name": "Ninja Shirt",
+        "name_id": "NinjaShirt"
     },
     "258": {
         "legSlot": 14,
@@ -316,7 +476,12 @@
                 "value": 3,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Ninja armor",
+        "name": "Ninja Pants",
+        "name_id": "NinjaPants"
     },
     "268": {
         "headSlot": 27,
@@ -326,7 +491,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Diving Helmet",
+        "name": "Diving Helmet",
+        "name_id": "DivingHelmet"
     },
     "371": {
         "defense": 3,
@@ -344,7 +514,12 @@
                 "value": 40,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Cobalt armor",
+        "name": "Cobalt Hat",
+        "name_id": "CobaltHat"
     },
     "372": {
         "defense": 14,
@@ -358,7 +533,12 @@
                 "value": 0.15,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Cobalt armor",
+        "name": "Cobalt Helmet",
+        "name_id": "CobaltHelmet"
     },
     "373": {
         "defense": 5,
@@ -372,7 +552,12 @@
                 "value": 10,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Cobalt armor",
+        "name": "Cobalt Mask",
+        "name_id": "CobaltMask"
     },
     "374": {
         "defense": 10,
@@ -390,7 +575,12 @@
                 "value": 5,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Cobalt armor",
+        "name": "Cobalt Breastplate",
+        "name_id": "CobaltBreastplate"
     },
     "375": {
         "defense": 8,
@@ -416,7 +606,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Cobalt armor",
+        "name": "Cobalt Leggings",
+        "name_id": "CobaltLeggings"
     },
     "376": {
         "defense": 3,
@@ -430,7 +625,12 @@
                 "value": 60,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Mythril armor",
+        "name": "Mythril Hood",
+        "name_id": "MythrilHood"
     },
     "377": {
         "defense": 16,
@@ -444,7 +644,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Mythril armor",
+        "name": "Mythril Helmet",
+        "name_id": "MythrilHelmet"
     },
     "378": {
         "defense": 6,
@@ -458,7 +663,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Mythril armor",
+        "name": "Mythril Hat",
+        "name_id": "MythrilHat"
     },
     "379": {
         "defense": 12,
@@ -480,7 +690,12 @@
                 "value": 0.07,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Mythril armor",
+        "name": "Mythril Chainmail",
+        "name_id": "MythrilChainmail"
     },
     "380": {
         "defense": 9,
@@ -498,7 +713,12 @@
                 "value": 10,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Mythril armor",
+        "name": "Mythril Greaves",
+        "name_id": "MythrilGreaves"
     },
     "397": {
         "defense": 2
@@ -519,7 +739,12 @@
                 "value": 80,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Adamantite armor",
+        "name": "Adamantite Headgear",
+        "name_id": "AdamantiteHeadgear"
     },
     "401": {
         "defense": 22,
@@ -533,7 +758,12 @@
                 "value": 0.14,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Adamantite armor",
+        "name": "Adamantite Helmet",
+        "name_id": "AdamantiteHelmet"
     },
     "402": {
         "defense": 8,
@@ -547,7 +777,12 @@
                 "value": 10,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Adamantite armor",
+        "name": "Adamantite Mask",
+        "name_id": "AdamantiteMask"
     },
     "403": {
         "defense": 16,
@@ -569,7 +804,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Adamantite armor",
+        "name": "Adamantite Breastplate",
+        "name_id": "AdamantiteBreastplate"
     },
     "404": {
         "defense": 12,
@@ -591,7 +831,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Adamantite armor",
+        "name": "Adamantite Leggings",
+        "name_id": "AdamantiteLeggings"
     },
     "410": {
         "defense": 1,
@@ -601,7 +846,12 @@
                 "value": 0.1,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Mining armor",
+        "name": "Mining Shirt",
+        "name_id": "MiningShirt"
     },
     "411": {
         "defense": 1,
@@ -611,7 +861,12 @@
                 "value": 0.1,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Mining armor",
+        "name": "Mining Pants",
+        "name_id": "MiningPants"
     },
     "551": {
         "defense": 15,
@@ -629,7 +884,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Plate Mail",
+        "name_id": "HallowedPlateMail"
     },
     "552": {
         "defense": 11,
@@ -655,7 +915,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Greaves",
+        "name_id": "HallowedGreaves"
     },
     "553": {
         "defense": 9,
@@ -669,7 +934,12 @@
                 "value": 8,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Helmet",
+        "name_id": "HallowedHelmet"
     },
     "558": {
         "defense": 5,
@@ -687,7 +957,12 @@
                 "value": 100,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Headgear",
+        "name_id": "HallowedHeadgear"
     },
     "559": {
         "defense": 24,
@@ -705,7 +980,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Mask",
+        "name_id": "HallowedMask"
     },
     "684": {
         "defense": 10,
@@ -719,7 +999,12 @@
                 "value": 0.16,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Frost armor",
+        "name": "Frost Helmet",
+        "name_id": "FrostHelmet"
     },
     "685": {
         "defense": 20,
@@ -733,7 +1018,12 @@
                 "value": 11,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Frost armor",
+        "name": "Frost Breastplate",
+        "name_id": "FrostBreastplate"
     },
     "686": {
         "defense": 13,
@@ -747,103 +1037,228 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Frost armor",
+        "name": "Frost Leggings",
+        "name_id": "FrostLeggings"
     },
     "687": {
         "defense": 2,
-        "headSlot": 47
+        "headSlot": 47,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tin armor",
+        "name": "Tin Helmet",
+        "name_id": "TinHelmet"
     },
     "688": {
         "defense": 2,
-        "bodySlot": 28
+        "bodySlot": 28,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tin armor",
+        "name": "Tin Chainmail",
+        "name_id": "TinChainmail"
     },
     "689": {
         "defense": 1,
-        "legSlot": 27
+        "legSlot": 27,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tin armor",
+        "name": "Tin Greaves",
+        "name_id": "TinGreaves"
     },
     "690": {
         "defense": 3,
-        "headSlot": 48
+        "headSlot": 48,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Lead armor",
+        "name": "Lead Helmet",
+        "name_id": "LeadHelmet"
     },
     "691": {
         "defense": 3,
-        "bodySlot": 29
+        "bodySlot": 29,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Lead armor",
+        "name": "Lead Chainmail",
+        "name_id": "LeadChainmail"
     },
     "692": {
         "defense": 2,
-        "legSlot": 28
+        "legSlot": 28,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Lead armor",
+        "name": "Lead Greaves",
+        "name_id": "LeadGreaves"
     },
     "693": {
         "defense": 4,
-        "headSlot": 49
+        "headSlot": 49,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tungsten armor",
+        "name": "Tungsten Helmet",
+        "name_id": "TungstenHelmet"
     },
     "694": {
         "defense": 5,
-        "bodySlot": 30
+        "bodySlot": 30,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tungsten armor",
+        "name": "Tungsten Chainmail",
+        "name_id": "TungstenChainmail"
     },
     "695": {
         "defense": 3,
-        "legSlot": 29
+        "legSlot": 29,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Tungsten armor",
+        "name": "Tungsten Greaves",
+        "name_id": "TungstenGreaves"
     },
     "696": {
         "defense": 5,
-        "headSlot": 50
+        "headSlot": 50,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Platinum armor",
+        "name": "Platinum Helmet",
+        "name_id": "PlatinumHelmet"
     },
     "697": {
         "defense": 6,
-        "bodySlot": 31
+        "bodySlot": 31,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Platinum armor",
+        "name": "Platinum Chainmail",
+        "name_id": "PlatinumChainmail"
     },
     "698": {
         "defense": 5,
-        "legSlot": 30
+        "legSlot": 30,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Platinum armor",
+        "name": "Platinum Greaves",
+        "name_id": "PlatinumGreaves"
     },
     "727": {
         "defense": 1,
-        "headSlot": 52
+        "headSlot": 52,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Wood armor",
+        "name": "Wood Helmet",
+        "name_id": "WoodHelmet"
     },
     "728": {
         "defense": 1,
-        "bodySlot": 32
+        "bodySlot": 32,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Wood armor",
+        "name": "Wood Breastplate",
+        "name_id": "WoodBreastplate"
     },
     "729": {
         "defense": 0,
-        "legSlot": 31
+        "legSlot": 31,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Wood armor",
+        "name": "Wood Greaves",
+        "name_id": "WoodGreaves"
     },
     "730": {
         "defense": 1,
-        "headSlot": 53
+        "headSlot": 53,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ebonwood armor",
+        "name": "Ebonwood Helmet",
+        "name_id": "EbonwoodHelmet"
     },
     "731": {
         "defense": 2,
-        "bodySlot": 33
+        "bodySlot": 33,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ebonwood armor",
+        "name": "Ebonwood Breastplate",
+        "name_id": "EbonwoodBreastplate"
     },
     "732": {
         "defense": 1,
-        "legSlot": 32
+        "legSlot": 32,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ebonwood armor",
+        "name": "Ebonwood Greaves",
+        "name_id": "EbonwoodGreaves"
     },
     "733": {
         "defense": 1,
-        "headSlot": 54
+        "headSlot": 54,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Rich Mahogany armor",
+        "name": "Rich Mahogany Helmet",
+        "name_id": "RichMahoganyHelmet"
     },
     "734": {
         "defense": 1,
-        "bodySlot": 34
+        "bodySlot": 34,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Rich Mahogany armor",
+        "name": "Rich Mahogany Breastplate",
+        "name_id": "RichMahoganyBreastplate"
     },
     "735": {
         "defense": 1,
-        "legSlot": 33
+        "legSlot": 33,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Rich Mahogany armor",
+        "name": "Rich Mahogany Greaves",
+        "name_id": "RichMahoganyGreaves"
     },
     "736": {
         "defense": 2,
-        "headSlot": 55
+        "headSlot": 55,
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Pearlwood armor",
+        "name": "Pearlwood Helmet",
+        "name_id": "PearlwoodHelmet"
     },
     "737": {
         "defense": 3,
-        "bodySlot": 35
+        "bodySlot": 35,
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Pearlwood armor",
+        "name": "Pearlwood Breastplate",
+        "name_id": "PearlwoodBreastplate"
     },
     "738": {
         "defense": 2,
-        "legSlot": 34
+        "legSlot": 34,
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Pearlwood armor",
+        "name": "Pearlwood Greaves",
+        "name_id": "PearlwoodGreaves"
     },
     "792": {
         "defense": 6,
@@ -865,7 +1280,12 @@
                 "value": 0.03,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Crimson armor",
+        "name": "Crimson Helmet",
+        "name_id": "CrimsonHelmet"
     },
     "793": {
         "defense": 7,
@@ -887,7 +1307,12 @@
                 "value": 0.03,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Crimson armor",
+        "name": "Crimson Scalemail",
+        "name_id": "CrimsonScalemail"
     },
     "794": {
         "defense": 6,
@@ -909,19 +1334,39 @@
                 "value": 0.03,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Crimson armor",
+        "name": "Crimson Greaves",
+        "name_id": "CrimsonGreaves"
     },
     "803": {
         "headSlot": 58,
-        "defense": 3
+        "defense": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Snow armor",
+        "name": "Snow Hood",
+        "name_id": "EskimoHood"
     },
     "804": {
         "bodySlot": 38,
-        "defense": 3
+        "defense": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Snow armor",
+        "name": "Snow Coat",
+        "name_id": "EskimoCoat"
     },
     "805": {
         "legSlot": 36,
-        "defense": 3
+        "defense": 3,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Snow armor",
+        "name": "Snow Pants",
+        "name_id": "EskimoPants"
     },
     "867": {
         "headSlot": 63,
@@ -929,42 +1374,87 @@
     },
     "879": {
         "headSlot": 69,
-        "defense": 4
+        "defense": 4,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Viking Helmet",
+        "name": "Viking Helmet",
+        "name_id": "VikingHelmet"
     },
     "894": {
         "defense": 1,
-        "headSlot": 70
+        "headSlot": 70,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Cactus armor",
+        "name": "Cactus Helmet",
+        "name_id": "CactusHelmet"
     },
     "895": {
         "defense": 1,
-        "bodySlot": 46
+        "bodySlot": 46,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Cactus armor",
+        "name": "Cactus Breastplate",
+        "name_id": "CactusBreastplate"
     },
     "896": {
         "defense": 1,
-        "legSlot": 42
+        "legSlot": 42,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Cactus armor",
+        "name": "Cactus Leggings",
+        "name_id": "CactusLeggings"
     },
     "924": {
         "defense": 1,
-        "headSlot": 71
+        "headSlot": 71,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Shadewood armor",
+        "name": "Shadewood Helmet",
+        "name_id": "ShadewoodHelmet"
     },
     "925": {
         "defense": 2,
-        "bodySlot": 47
+        "bodySlot": 47,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Shadewood armor",
+        "name": "Shadewood Breastplate",
+        "name_id": "ShadewoodBreastplate"
     },
     "926": {
         "defense": 1,
-        "legSlot": 43
+        "legSlot": 43,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Shadewood armor",
+        "name": "Shadewood Greaves",
+        "name_id": "ShadewoodGreaves"
     },
     "938": {
         "defense": 6
     },
     "954": {
         "defense": 2,
-        "headSlot": 72
+        "headSlot": 72,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Iron armor",
+        "name": "Ancient Iron Helmet",
+        "name_id": "AncientIronHelmet"
     },
     "955": {
         "defense": 4,
-        "headSlot": 73
+        "headSlot": 73,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gold armor",
+        "name": "Ancient Gold Helmet",
+        "name_id": "AncientGoldHelmet"
     },
     "956": {
         "defense": 6,
@@ -1028,7 +1518,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Necro armor",
+        "name": "Ancient Necro Helmet",
+        "name_id": "AncientNecroHelmet"
     },
     "960": {
         "defense": 5,
@@ -1096,7 +1591,12 @@
                 "value": 6,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Chlorophyte armor",
+        "name": "Chlorophyte Mask",
+        "name_id": "ChlorophyteMask"
     },
     "1002": {
         "defense": 13,
@@ -1110,7 +1610,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Chlorophyte armor",
+        "name": "Chlorophyte Helmet",
+        "name_id": "ChlorophyteHelmet"
     },
     "1003": {
         "defense": 7,
@@ -1128,7 +1633,12 @@
                 "value": 0.16,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Chlorophyte armor",
+        "name": "Chlorophyte Headgear",
+        "name_id": "ChlorophyteHeadgear"
     },
     "1004": {
         "defense": 18,
@@ -1162,7 +1672,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Chlorophyte armor",
+        "name": "Chlorophyte Plate Mail",
+        "name_id": "ChlorophytePlateMail"
     },
     "1005": {
         "defense": 13,
@@ -1184,15 +1699,30 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Chlorophyte armor",
+        "name": "Chlorophyte Greaves",
+        "name_id": "ChlorophyteGreaves"
     },
     "1135": {
         "headSlot": 81,
-        "defense": 1
+        "defense": 1,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Rain armor",
+        "name": "Rain Hat",
+        "name_id": "RainHat"
     },
     "1136": {
         "bodySlot": 52,
-        "defense": 2
+        "defense": 2,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Rain armor",
+        "name": "Rain Coat",
+        "name_id": "RainCoat"
     },
     "1159": {
         "defense": 6,
@@ -1202,7 +1732,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Tiki armor",
+        "name": "Tiki Mask",
+        "name_id": "TikiMask"
     },
     "1160": {
         "defense": 17,
@@ -1216,7 +1751,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Tiki armor",
+        "name": "Tiki Shirt",
+        "name_id": "TikiShirt"
     },
     "1161": {
         "defense": 12,
@@ -1230,7 +1770,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Tiki armor",
+        "name": "Tiki Pants",
+        "name_id": "TikiPants"
     },
     "1205": {
         "defense": 14,
@@ -1244,7 +1789,12 @@
                 "value": 0.12,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Palladium armor",
+        "name": "Palladium Mask",
+        "name_id": "PalladiumMask"
     },
     "1206": {
         "defense": 5,
@@ -1258,7 +1808,12 @@
                 "value": 9,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Palladium armor",
+        "name": "Palladium Helmet",
+        "name_id": "PalladiumHelmet"
     },
     "1207": {
         "defense": 3,
@@ -1276,7 +1831,12 @@
                 "value": 60,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Palladium armor",
+        "name": "Palladium Headgear",
+        "name_id": "PalladiumHeadgear"
     },
     "1208": {
         "defense": 10,
@@ -1310,7 +1870,12 @@
                 "value": 2,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Palladium armor",
+        "name": "Palladium Breastplate",
+        "name_id": "PalladiumBreastplate"
     },
     "1209": {
         "defense": 8,
@@ -1344,7 +1909,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Palladium armor",
+        "name": "Palladium Leggings",
+        "name_id": "PalladiumLeggings"
     },
     "1210": {
         "defense": 19,
@@ -1362,7 +1932,12 @@
                 "value": 0.07,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Orichalcum armor",
+        "name": "Orichalcum Mask",
+        "name_id": "OrichalcumMask"
     },
     "1211": {
         "defense": 7,
@@ -1376,7 +1951,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Orichalcum armor",
+        "name": "Orichalcum Helmet",
+        "name_id": "OrichalcumHelmet"
     },
     "1212": {
         "defense": 4,
@@ -1390,7 +1970,12 @@
                 "value": 80,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Orichalcum armor",
+        "name": "Orichalcum Headgear",
+        "name_id": "OrichalcumHeadgear"
     },
     "1213": {
         "defense": 13,
@@ -1408,7 +1993,12 @@
                 "value": 6,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Orichalcum armor",
+        "name": "Orichalcum Breastplate",
+        "name_id": "OrichalcumBreastplate"
     },
     "1214": {
         "defense": 10,
@@ -1434,7 +2024,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Orichalcum armor",
+        "name": "Orichalcum Leggings",
+        "name_id": "OrichalcumLeggings"
     },
     "1215": {
         "defense": 23,
@@ -1452,7 +2047,12 @@
                 "value": 0.09,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Titanium armor",
+        "name": "Titanium Mask",
+        "name_id": "TitaniumMask"
     },
     "1216": {
         "defense": 8,
@@ -1466,7 +2066,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Titanium armor",
+        "name": "Titanium Helmet",
+        "name_id": "TitaniumHelmet"
     },
     "1217": {
         "defense": 4,
@@ -1484,7 +2089,12 @@
                 "value": 100,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Titanium armor",
+        "name": "Titanium Headgear",
+        "name_id": "TitaniumHeadgear"
     },
     "1218": {
         "defense": 15,
@@ -1518,7 +2128,12 @@
                 "value": 3,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Titanium armor",
+        "name": "Titanium Breastplate",
+        "name_id": "TitaniumBreastplate"
     },
     "1219": {
         "defense": 11,
@@ -1556,7 +2171,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Titanium armor",
+        "name": "Titanium Leggings",
+        "name_id": "TitaniumLeggings"
     },
     "1283": {
         "bodySlot": 59,
@@ -1570,7 +2190,12 @@
                 "value": 0.07,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Topaz Robe",
+        "name": "Topaz Robe",
+        "name_id": "TopazRobe"
     },
     "1284": {
         "bodySlot": 60,
@@ -1584,7 +2209,12 @@
                 "value": 0.09,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Sapphire Robe",
+        "name": "Sapphire Robe",
+        "name_id": "SapphireRobe"
     },
     "1285": {
         "bodySlot": 61,
@@ -1598,7 +2228,12 @@
                 "value": 0.11,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Emerald Robe",
+        "name": "Emerald Robe",
+        "name_id": "EmeraldRobe"
     },
     "1286": {
         "bodySlot": 62,
@@ -1612,7 +2247,12 @@
                 "value": 0.13,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ruby Robe",
+        "name": "Ruby Robe",
+        "name_id": "RubyRobe"
     },
     "1287": {
         "defense": 3,
@@ -1626,7 +2266,12 @@
                 "value": 0.15,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Diamond Robe",
+        "name": "Diamond Robe",
+        "name_id": "DiamondRobe"
     },
     "1316": {
         "defense": 21,
@@ -1636,7 +2281,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Turtle armor",
+        "name": "Turtle Helmet",
+        "name_id": "TurtleHelmet"
     },
     "1317": {
         "defense": 27,
@@ -1650,7 +2300,12 @@
                 "value": 8,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Turtle armor",
+        "name": "Turtle Scale Mail",
+        "name_id": "TurtleScaleMail"
     },
     "1318": {
         "defense": 17,
@@ -1660,11 +2315,21 @@
                 "value": 4,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Turtle armor",
+        "name": "Turtle Leggings",
+        "name_id": "TurtleLeggings"
     },
     "1503": {
         "defense": 6,
-        "headSlot": 101
+        "headSlot": 101,
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spectre armor",
+        "name": "Spectre Hood",
+        "name_id": "SpectreHood"
     },
     "1504": {
         "defense": 14,
@@ -1678,7 +2343,12 @@
                 "value": 7,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spectre armor",
+        "name": "Spectre Robe",
+        "name_id": "SpectreRobe"
     },
     "1505": {
         "defense": 10,
@@ -1692,7 +2362,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spectre armor",
+        "name": "Spectre Pants",
+        "name_id": "SpectrePants"
     },
     "1546": {
         "defense": 11,
@@ -1706,7 +2381,12 @@
                 "value": 1.15,
                 "sign": "*"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Shroomite armor",
+        "name": "Shroomite Headgear",
+        "name_id": "ShroomiteHeadgear"
     },
     "1547": {
         "defense": 11,
@@ -1720,7 +2400,12 @@
                 "value": 1.15,
                 "sign": "*"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Shroomite armor",
+        "name": "Shroomite Mask",
+        "name_id": "ShroomiteMask"
     },
     "1548": {
         "defense": 11,
@@ -1734,7 +2419,12 @@
                 "value": 1.15,
                 "sign": "*"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Shroomite armor",
+        "name": "Shroomite Helmet",
+        "name_id": "ShroomiteHelmet"
     },
     "1549": {
         "defense": 24,
@@ -1752,7 +2442,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Shroomite armor",
+        "name": "Shroomite Breastplate",
+        "name_id": "ShroomiteBreastplate"
     },
     "1550": {
         "defense": 16,
@@ -1766,22 +2461,42 @@
                 "value": 0.12,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Shroomite armor",
+        "name": "Shroomite Leggings",
+        "name_id": "ShroomiteLeggings"
     },
     "1613": {
         "defense": 4
     },
     "1731": {
         "defense": 2,
-        "headSlot": 112
+        "headSlot": 112,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Pumpkin armor",
+        "name": "Pumpkin Helmet",
+        "name_id": "PumpkinHelmet"
     },
     "1732": {
         "defense": 3,
-        "bodySlot": 75
+        "bodySlot": 75,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Pumpkin armor",
+        "name": "Pumpkin Breastplate",
+        "name_id": "PumpkinBreastplate"
     },
     "1733": {
         "defense": 2,
-        "legSlot": 64
+        "legSlot": 64,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Pumpkin armor",
+        "name": "Pumpkin Leggings",
+        "name_id": "PumpkinLeggings"
     },
     "1832": {
         "headSlot": 134,
@@ -1795,7 +2510,12 @@
                 "value": 0.11,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spooky armor",
+        "name": "Spooky Helmet",
+        "name_id": "SpookyHelmet"
     },
     "1833": {
         "bodySlot": 95,
@@ -1809,7 +2529,12 @@
                 "value": 0.11,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spooky armor",
+        "name": "Spooky Breastplate",
+        "name_id": "SpookyBreastplate"
     },
     "1834": {
         "legSlot": 79,
@@ -1827,7 +2552,12 @@
                 "value": 0.11,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spooky armor",
+        "name": "Spooky Leggings",
+        "name_id": "SpookyLeggings"
     },
     "2189": {
         "defense": 18,
@@ -1849,7 +2579,12 @@
                 "value": 10,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Golem",
+        "progression_id": 4,
+        "set_name": "Spectre armor",
+        "name": "Spectre Mask",
+        "name_id": "SpectreMask"
     },
     "2199": {
         "defense": 23,
@@ -1859,7 +2594,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Beetle armor",
+        "name": "Beetle Helmet",
+        "name_id": "BeetleHelmet"
     },
     "2200": {
         "defense": 20,
@@ -1881,7 +2621,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Beetle armor",
+        "name": "Beetle Scale Mail",
+        "name_id": "BeetleScaleMail"
     },
     "2201": {
         "defense": 32,
@@ -1895,7 +2640,12 @@
                 "value": 5,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Beetle armor",
+        "name": "Beetle Shell",
+        "name_id": "BeetleShell"
     },
     "2202": {
         "defense": 18,
@@ -1909,7 +2659,12 @@
                 "value": 0.06,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Beetle armor",
+        "name": "Beetle Leggings",
+        "name_id": "BeetleLeggings"
     },
     "2275": {
         "headSlot": 159,
@@ -1923,7 +2678,12 @@
                 "value": 6,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Magic Hat",
+        "name": "Magic Hat",
+        "name_id": "MagicHat"
     },
     "2277": {
         "bodySlot": 165,
@@ -1965,7 +2725,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gi",
+        "name": "Gi",
+        "name_id": "Gi"
     },
     "2279": {
         "bodySlot": 167,
@@ -1983,7 +2748,12 @@
                 "value": 0.1,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Mystic Robe",
+        "name": "Mystic Robe",
+        "name_id": "GypsyRobe"
     },
     "2361": {
         "defense": 4,
@@ -1997,7 +2767,12 @@
                 "value": 0.04,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Bee armor",
+        "name": "Bee Headgear",
+        "name_id": "BeeHeadgear"
     },
     "2362": {
         "defense": 5,
@@ -2011,7 +2786,12 @@
                 "value": 0.04,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Bee armor",
+        "name": "Bee Breastplate",
+        "name_id": "BeeBreastplate"
     },
     "2363": {
         "defense": 4,
@@ -2021,7 +2801,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Bee armor",
+        "name": "Bee Greaves",
+        "name_id": "BeeGreaves"
     },
     "2367": {
         "defense": 1,
@@ -2047,7 +2832,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Spider armor",
+        "name": "Spider Mask",
+        "name_id": "SpiderMask"
     },
     "2371": {
         "bodySlot": 170,
@@ -2061,7 +2851,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Spider armor",
+        "name": "Spider Breastplate",
+        "name_id": "SpiderBreastplate"
     },
     "2372": {
         "legSlot": 105,
@@ -2075,31 +2870,66 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Spider armor",
+        "name": "Spider Greaves",
+        "name_id": "SpiderGreaves"
     },
     "2509": {
         "defense": 1,
-        "headSlot": 166
+        "headSlot": 166,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Boreal Wood armor",
+        "name": "Boreal Wood Helmet",
+        "name_id": "BorealWoodHelmet"
     },
     "2510": {
         "defense": 1,
-        "bodySlot": 173
+        "bodySlot": 173,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Boreal Wood armor",
+        "name": "Boreal Wood Breastplate",
+        "name_id": "BorealWoodBreastplate"
     },
     "2511": {
         "defense": 1,
-        "legSlot": 108
+        "legSlot": 108,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Boreal Wood armor",
+        "name": "Boreal Wood Greaves",
+        "name_id": "BorealWoodGreaves"
     },
     "2512": {
         "defense": 1,
-        "headSlot": 167
+        "headSlot": 167,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Palm Wood armor",
+        "name": "Palm Wood Helmet",
+        "name_id": "PalmWoodHelmet"
     },
     "2513": {
         "defense": 1,
-        "bodySlot": 174
+        "bodySlot": 174,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Palm Wood armor",
+        "name": "Palm Wood Breastplate",
+        "name_id": "PalmWoodBreastplate"
     },
     "2514": {
         "defense": 1,
-        "legSlot": 109
+        "legSlot": 109,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Palm Wood armor",
+        "name": "Palm Wood Greaves",
+        "name_id": "PalmWoodGreaves"
     },
     "2757": {
         "defense": 14,
@@ -2113,7 +2943,12 @@
                 "value": 0.16,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Vortex armor",
+        "name": "Vortex Helmet",
+        "name_id": "VortexHelmet"
     },
     "2758": {
         "defense": 28,
@@ -2131,7 +2966,12 @@
                 "value": 0.12,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Vortex armor",
+        "name": "Vortex Breastplate",
+        "name_id": "VortexBreastplate"
     },
     "2759": {
         "defense": 20,
@@ -2149,7 +2989,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Vortex armor",
+        "name": "Vortex Leggings",
+        "name_id": "VortexLeggings"
     },
     "2760": {
         "defense": 14,
@@ -2171,7 +3016,12 @@
                 "value": 0.07,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Nebula armor",
+        "name": "Nebula Helmet",
+        "name_id": "NebulaHelmet"
     },
     "2761": {
         "defense": 18,
@@ -2185,7 +3035,12 @@
                 "value": 9,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Nebula armor",
+        "name": "Nebula Breastplate",
+        "name_id": "NebulaBreastplate"
     },
     "2762": {
         "defense": 14,
@@ -2199,7 +3054,12 @@
                 "value": 0.1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Nebula armor",
+        "name": "Nebula Leggings",
+        "name_id": "NebulaLeggings"
     },
     "2763": {
         "defense": 24,
@@ -2217,7 +3077,12 @@
                 "value": 2,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Solar Flare armor",
+        "name": "Solar Flare Helmet",
+        "name_id": "SolarFlareHelmet"
     },
     "2764": {
         "defense": 34,
@@ -2235,7 +3100,12 @@
                 "value": 2,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Solar Flare armor",
+        "name": "Solar Flare Breastplate",
+        "name_id": "SolarFlareBreastplate"
     },
     "2765": {
         "defense": 20,
@@ -2257,7 +3127,12 @@
                 "value": 2,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Solar Flare armor",
+        "name": "Solar Flare Leggings",
+        "name_id": "SolarFlareLeggings"
     },
     "3016": {
         "defense": 8
@@ -2273,19 +3148,39 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Night Vision Helmet",
+        "name": "Night Vision Helmet",
+        "name_id": "NightVisionHelmet"
     },
     "3187": {
         "defense": 5,
-        "headSlot": 180
+        "headSlot": 180,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gladiator armor",
+        "name": "Gladiator Helmet",
+        "name_id": "GladiatorHelmet"
     },
     "3188": {
         "defense": 6,
-        "bodySlot": 182
+        "bodySlot": 182,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gladiator armor",
+        "name": "Gladiator Breastplate",
+        "name_id": "GladiatorBreastplate"
     },
     "3189": {
         "defense": 5,
-        "legSlot": 122
+        "legSlot": 122,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Gladiator armor",
+        "name": "Gladiator Leggings",
+        "name_id": "GladiatorLeggings"
     },
     "3266": {
         "headSlot": 185,
@@ -2295,7 +3190,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Obsidian armor",
+        "name": "Obsidian Outlaw Hat",
+        "name_id": "ObsidianHelm"
     },
     "3267": {
         "bodySlot": 187,
@@ -2305,7 +3205,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Obsidian armor",
+        "name": "Obsidian Longcoat",
+        "name_id": "ObsidianShirt"
     },
     "3268": {
         "legSlot": 127,
@@ -2315,7 +3220,12 @@
                 "value": 0.08,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Post-Boss",
+        "progression_id": 1,
+        "set_name": "Obsidian armor",
+        "name": "Obsidian Pants",
+        "name_id": "ObsidianPants"
     },
     "3374": {
         "defense": 4,
@@ -2325,7 +3235,12 @@
                 "value": 4,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Fossil armor",
+        "name": "Fossil Helmet",
+        "name_id": "FossilHelm"
     },
     "3375": {
         "defense": 5,
@@ -2335,7 +3250,12 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Fossil armor",
+        "name": "Fossil Plate",
+        "name_id": "FossilShirt"
     },
     "3376": {
         "defense": 4,
@@ -2345,7 +3265,12 @@
                 "value": 4,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Fossil armor",
+        "name": "Fossil Greaves",
+        "name_id": "FossilPants"
     },
     "3381": {
         "defense": 10,
@@ -2363,7 +3288,12 @@
                 "value": 0.22,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Stardust armor",
+        "name": "Stardust Helmet",
+        "name_id": "StardustHelmet"
     },
     "3382": {
         "defense": 16,
@@ -2381,7 +3311,12 @@
                 "value": 0.22,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Stardust armor",
+        "name": "Stardust Plate",
+        "name_id": "StardustBreastplate"
     },
     "3383": {
         "defense": 12,
@@ -2399,7 +3334,12 @@
                 "value": 0.22,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Endgame",
+        "progression_id": 6,
+        "set_name": "Stardust armor",
+        "name": "Stardust Leggings",
+        "name_id": "StardustLeggings"
     },
     "3776": {
         "defense": 6,
@@ -2413,7 +3353,12 @@
                 "value": 0.15,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Forbidden armor",
+        "name": "Forbidden Mask",
+        "name_id": "AncientBattleArmorHat"
     },
     "3777": {
         "defense": 12,
@@ -2431,7 +3376,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Forbidden armor",
+        "name": "Forbidden Robes",
+        "name_id": "AncientBattleArmorShirt"
     },
     "3778": {
         "defense": 8,
@@ -2449,7 +3399,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Forbidden armor",
+        "name": "Forbidden Treads",
+        "name_id": "AncientBattleArmorPants"
     },
     "3797": {
         "headSlot": 203,
@@ -2471,7 +3426,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Apprentice armor",
+        "name": "Apprentice's Hat",
+        "name_id": "ApprenticeHat"
     },
     "3798": {
         "bodySlot": 200,
@@ -2489,7 +3449,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Apprentice armor",
+        "name": "Apprentice's Robe",
+        "name_id": "ApprenticeRobe"
     },
     "3799": {
         "legSlot": 144,
@@ -2511,7 +3476,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Apprentice armor",
+        "name": "Apprentice's Trousers",
+        "name_id": "ApprenticeTrousers"
     },
     "3800": {
         "headSlot": 204,
@@ -2529,7 +3499,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Squire armor",
+        "name": "Squire's Great Helm",
+        "name_id": "SquireGreatHelm"
     },
     "3801": {
         "bodySlot": 201,
@@ -2547,7 +3522,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Squire armor",
+        "name": "Squire's Plating",
+        "name_id": "SquirePlating"
     },
     "3802": {
         "legSlot": 145,
@@ -2569,7 +3549,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Squire armor",
+        "name": "Squire's Greaves",
+        "name_id": "SquireGreaves"
     },
     "3803": {
         "headSlot": 205,
@@ -2587,7 +3572,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Huntress armor",
+        "name": "Huntress's Wig",
+        "name_id": "HuntressWig"
     },
     "3804": {
         "bodySlot": 202,
@@ -2609,7 +3599,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Huntress armor",
+        "name": "Huntress's Jerkin",
+        "name_id": "HuntressJerkin"
     },
     "3805": {
         "legSlot": 146,
@@ -2627,7 +3622,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Huntress armor",
+        "name": "Huntress's Pants",
+        "name_id": "HuntressPants"
     },
     "3806": {
         "headSlot": 206,
@@ -2645,7 +3645,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Monk armor",
+        "name": "Monk's Bushy Brow Bald Cap",
+        "name_id": "MonkBrows"
     },
     "3807": {
         "bodySlot": 203,
@@ -2663,7 +3668,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Monk armor",
+        "name": "Monk's Shirt",
+        "name_id": "MonkShirt"
     },
     "3808": {
         "legSlot": 148,
@@ -2685,7 +3695,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Monk armor",
+        "name": "Monk's Pants",
+        "name_id": "MonkPants"
     },
     "3871": {
         "defense": 20,
@@ -2707,7 +3722,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Valhalla Knight armor",
+        "name": "Valhalla Knight's Helm",
+        "name_id": "SquireAltHead"
     },
     "3872": {
         "defense": 24,
@@ -2725,7 +3745,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Valhalla Knight armor",
+        "name": "Valhalla Knight's Breastplate",
+        "name_id": "SquireAltShirt"
     },
     "3873": {
         "defense": 24,
@@ -2747,7 +3772,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Valhalla Knight armor",
+        "name": "Valhalla Knight's Greaves",
+        "name_id": "SquireAltPants"
     },
     "3874": {
         "defense": 7,
@@ -2769,7 +3799,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Dark Artist armor",
+        "name": "Dark Artist's Hat",
+        "name_id": "ApprenticeAltHead"
     },
     "3875": {
         "defense": 21,
@@ -2791,7 +3826,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Dark Artist armor",
+        "name": "Dark Artist's Robes",
+        "name_id": "ApprenticeAltShirt"
     },
     "3876": {
         "defense": 14,
@@ -2813,7 +3853,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Dark Artist armor",
+        "name": "Dark Artist's Leggings",
+        "name_id": "ApprenticeAltPants"
     },
     "3877": {
         "defense": 8,
@@ -2835,7 +3880,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Red Riding armor",
+        "name": "Red Riding Hood",
+        "name_id": "HuntressAltHead"
     },
     "3878": {
         "defense": 24,
@@ -2857,7 +3907,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Red Riding armor",
+        "name": "Red Riding Dress",
+        "name_id": "HuntressAltShirt"
     },
     "3879": {
         "defense": 16,
@@ -2879,7 +3934,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Red Riding armor",
+        "name": "Red Riding Leggings",
+        "name_id": "HuntressAltPants"
     },
     "3880": {
         "defense": 10,
@@ -2901,7 +3961,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Shinobi Infiltrator armor",
+        "name": "Shinobi Infiltrator's Helmet",
+        "name_id": "MonkAltHead"
     },
     "3881": {
         "defense": 26,
@@ -2923,7 +3988,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Shinobi Infiltrator armor",
+        "name": "Shinobi Infiltrator's Torso",
+        "name_id": "MonkAltShirt"
     },
     "3882": {
         "defense": 18,
@@ -2945,7 +4015,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Moon Lord",
+        "progression_id": 5,
+        "set_name": "Shinobi Infiltrator armor",
+        "name": "Shinobi Infiltrator's Pants",
+        "name_id": "MonkAltPants"
     },
     "3992": {
         "defense": 8
@@ -2963,7 +4038,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Mining armor",
+        "name": "Ultrabright Helmet",
+        "name_id": "UltrabrightHelmet"
     },
     "4256": {
         "defense": 3,
@@ -2977,7 +4057,12 @@
                 "value": 0.13,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Amber Robe",
+        "name": "Amber Robe",
+        "name_id": "AmberRobe"
     },
     "4873": {
         "defense": 1,
@@ -2991,7 +4076,12 @@
                 "value": 1,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Plantera",
+        "progression_id": 3,
+        "set_name": "Hallowed armor",
+        "name": "Hallowed Hood",
+        "name_id": "HallowedHood"
     },
     "4896": {
         "defense": 24,
@@ -3121,7 +4211,12 @@
                 "value": 0.1,
                 "sign": "-"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Crystal Assassin armor",
+        "name": "Crystal Assassin Hood",
+        "name_id": "CrystalNinjaHelmet"
     },
     "4983": {
         "defense": 14,
@@ -3147,7 +4242,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Crystal Assassin armor",
+        "name": "Crystal Assassin Shirt",
+        "name_id": "CrystalNinjaChestplate"
     },
     "4984": {
         "defense": 10,
@@ -3161,7 +4261,12 @@
                 "value": 0.2,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Mech",
+        "progression_id": 2,
+        "set_name": "Crystal Assassin armor",
+        "name": "Crystal Assassin Pants",
+        "name_id": "CrystalNinjaLeggings"
     },
     "5001": {
         "defense": 3,
@@ -3183,7 +4288,12 @@
                 "value": "true",
                 "sign": "="
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Moon Lord Legs",
+        "name": "Moon Lord Legs",
+        "name_id": "MoonLordLegs"
     },
     "5068": {
         "bodySlot": 241,
@@ -3197,18 +4307,38 @@
                 "value": 0.05,
                 "sign": "+"
             }
-        }
+        },
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Flinx Fur Coat",
+        "name": "Flinx Fur Coat",
+        "name_id": "FlinxFurCoat"
     },
     "5279": {
         "defense": 1,
-        "headSlot": 278
+        "headSlot": 278,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ash Wood armor",
+        "name": "Ash Wood Helmet",
+        "name_id": "AshWoodHelmet"
     },
     "5280": {
         "defense": 1,
-        "bodySlot": 246
+        "bodySlot": 246,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ash Wood armor",
+        "name": "Ash Wood Breastplate",
+        "name_id": "AshWoodBreastplate"
     },
     "5281": {
         "defense": 1,
-        "legSlot": 234
+        "legSlot": 234,
+        "progression": "Pre-Boss",
+        "progression_id": 0,
+        "set_name": "Ash Wood armor",
+        "name": "Ash Wood Greaves",
+        "name_id": "AshWoodGreaves"
     }
 }

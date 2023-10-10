@@ -29,22 +29,23 @@ def make_linear(scale: float):
     return f
 
 def get_score_functions(s):
-    return {
+    d = {
         key: make_linear(scale) for key, scale in s.items()
     }
+    return d
 
 score_functions = get_score_functions(scales)
-print(score_functions['minionDamage'](10))
 
 class Armor:
-    def __init__(self, id, dict) -> None:
+    def __init__(self, id, d) -> None:
         self.slot = (
-            Slot.HEAD if "headSlot" in dict.keys() else
-            Slot.BODY if "bodySlot" in dict.keys() else
-            Slot.LEGS if "legSlot"  in dict.keys() else None
+            Slot.HEAD if "headSlot" in d.keys() else
+            Slot.BODY if "bodySlot" in d.keys() else
+            Slot.LEGS if "legSlot"  in d.keys() else None
         )
-        self.properties = dict["properties"] if "properties" in dict else {}
-        self.properties["defense"] = {"value": dict["defense"], "sign": "+"}
+        self.properties = d["properties"] if "properties" in d else {}
+        self.properties["defense"] = {"value": d["defense"], "sign": "+"}
+        self.progression_id = d["progression_id"] if "progression_id" in d.keys() else 100
         self.id = id
     def get_property_value(self,prop: str):
         if prop in self.properties.keys():
@@ -85,17 +86,20 @@ with open("raw_item_data/Items.json", "r") as f:
 def main():
     pass
 
-def find_best_set(sf):
+def find_best_set(sf, progression_id: int = 0):
     armors_head = []
     armors_body = []
     armors_legs = []
 
-    with open("item_data.json", "r") as f:
+    with open("item_data_new.json", "r") as f:
         items: dict = json.load(f)
     
     
     for id, val in items.items():
         armor = Armor(id,val)
+        if armor.progression_id > progression_id:
+            continue
+
         if armor.slot == Slot.HEAD:
             armors_head.append(armor)
         elif armor.slot == Slot.BODY:
@@ -104,6 +108,7 @@ def find_best_set(sf):
             armors_legs.append(armor)
 
     # Sort each armor list by score
+
     armors_head.sort(key=lambda x: x.get_score(sf), reverse=True)
     armors_body.sort(key=lambda x: x.get_score(sf), reverse=True)
     armors_legs.sort(key=lambda x: x.get_score(sf), reverse=True)
