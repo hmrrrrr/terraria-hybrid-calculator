@@ -1,0 +1,3222 @@
+{
+    "37": {
+        "defense": 1,
+        "headSlot": 10
+    },
+    "76": {
+        "defense": 1,
+        "legSlot": 1
+    },
+    "77": {
+        "defense": 2,
+        "legSlot": 2
+    },
+    "78": {
+        "defense": 3,
+        "legSlot": 3
+    },
+    "79": {
+        "defense": 4,
+        "legSlot": 4
+    },
+    "80": {
+        "defense": 2,
+        "bodySlot": 1
+    },
+    "81": {
+        "defense": 3,
+        "bodySlot": 2
+    },
+    "82": {
+        "defense": 4,
+        "bodySlot": 3
+    },
+    "83": {
+        "defense": 5,
+        "bodySlot": 4
+    },
+    "88": {
+        "defense": 2,
+        "headSlot": 11
+    },
+    "89": {
+        "defense": 1,
+        "headSlot": 1
+    },
+    "90": {
+        "defense": 2,
+        "headSlot": 2
+    },
+    "91": {
+        "defense": 3,
+        "headSlot": 3
+    },
+    "92": {
+        "defense": 4,
+        "headSlot": 4
+    },
+    "100": {
+        "defense": 6,
+        "legSlot": 5,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "101": {
+        "defense": 7,
+        "bodySlot": 5,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "102": {
+        "defense": 6,
+        "headSlot": 5,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "123": {
+        "defense": 5,
+        "headSlot": 6,
+        "properties": {
+            "magicDamage": {
+                "value": 0.09,
+                "sign": "+"
+            }
+        }
+    },
+    "124": {
+        "defense": 6,
+        "bodySlot": 6,
+        "properties": {
+            "magicDamage": {
+                "value": 0.09,
+                "sign": "+"
+            }
+        }
+    },
+    "125": {
+        "defense": 5,
+        "legSlot": 6,
+        "properties": {
+            "magicDamage": {
+                "value": 0.09,
+                "sign": "+"
+            }
+        }
+    },
+    "151": {
+        "defense": 6,
+        "headSlot": 7,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "152": {
+        "defense": 7,
+        "bodySlot": 7,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "153": {
+        "defense": 6,
+        "legSlot": 7,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "156": {
+        "defense": 1
+    },
+    "193": {
+        "defense": 1
+    },
+    "205": {
+        "headSlot": 13,
+        "defense": 1
+    },
+    "216": {
+        "defense": 1
+    },
+    "228": {
+        "defense": 5,
+        "headSlot": 8,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "229": {
+        "defense": 6,
+        "bodySlot": 8,
+        "properties": {
+            "statManaMax2": {
+                "value": 20,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "230": {
+        "defense": 6,
+        "legSlot": 8,
+        "properties": {
+            "statManaMax2": {
+                "value": 20,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "231": {
+        "defense": 8,
+        "headSlot": 9,
+        "properties": {
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "232": {
+        "defense": 9,
+        "bodySlot": 9,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.07,
+                "sign": "+"
+            }
+        }
+    },
+    "233": {
+        "defense": 8,
+        "legSlot": 9,
+        "properties": {
+            "meleeSpeed": {
+                "value": 0.07,
+                "sign": "+"
+            }
+        }
+    },
+    "238": {
+        "headSlot": 14,
+        "defense": 4,
+        "properties": {
+            "magicDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "if": {
+                "value": 1,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "256": {
+        "headSlot": 22,
+        "defense": 2,
+        "properties": {
+            "rangedCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 3,
+                "sign": "+"
+            }
+        }
+    },
+    "257": {
+        "bodySlot": 14,
+        "defense": 4,
+        "properties": {
+            "rangedCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 3,
+                "sign": "+"
+            }
+        }
+    },
+    "258": {
+        "legSlot": 14,
+        "defense": 3,
+        "properties": {
+            "rangedCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 3,
+                "sign": "+"
+            }
+        }
+    },
+    "268": {
+        "headSlot": 27,
+        "defense": 2,
+        "properties": {
+            "accDivingHelm": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "371": {
+        "defense": 3,
+        "headSlot": 29,
+        "properties": {
+            "magicCrit": {
+                "value": 9,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            }
+        }
+    },
+    "372": {
+        "defense": 14,
+        "headSlot": 30,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.15,
+                "sign": "+"
+            }
+        }
+    },
+    "373": {
+        "defense": 5,
+        "headSlot": 31,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            }
+        }
+    },
+    "374": {
+        "defense": 10,
+        "bodySlot": 17,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "375": {
+        "defense": 8,
+        "legSlot": 16,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "376": {
+        "defense": 3,
+        "headSlot": 32,
+        "properties": {
+            "magicDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            }
+        }
+    },
+    "377": {
+        "defense": 16,
+        "headSlot": 33,
+        "properties": {
+            "meleeCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "378": {
+        "defense": 6,
+        "headSlot": 34,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.12,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "379": {
+        "defense": 12,
+        "bodySlot": 18,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.07,
+                "sign": "+"
+            }
+        }
+    },
+    "380": {
+        "defense": 9,
+        "legSlot": 17,
+        "properties": {
+            "magicCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            }
+        }
+    },
+    "397": {
+        "defense": 2
+    },
+    "400": {
+        "defense": 4,
+        "headSlot": 35,
+        "properties": {
+            "magicDamage": {
+                "value": 0.12,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 12,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 80,
+                "sign": "+"
+            }
+        }
+    },
+    "401": {
+        "defense": 22,
+        "headSlot": 36,
+        "properties": {
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.14,
+                "sign": "+"
+            }
+        }
+    },
+    "402": {
+        "defense": 8,
+        "headSlot": 37,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.14,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            }
+        }
+    },
+    "403": {
+        "defense": 16,
+        "bodySlot": 19,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "404": {
+        "defense": 12,
+        "legSlot": 18,
+        "properties": {
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "410": {
+        "defense": 1,
+        "bodySlot": 20,
+        "properties": {
+            "pickSpeed": {
+                "value": 0.1,
+                "sign": "-"
+            }
+        }
+    },
+    "411": {
+        "defense": 1,
+        "legSlot": 19,
+        "properties": {
+            "pickSpeed": {
+                "value": 0.1,
+                "sign": "-"
+            }
+        }
+    },
+    "551": {
+        "defense": 15,
+        "bodySlot": 24,
+        "properties": {
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "552": {
+        "defense": 11,
+        "legSlot": 23,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "553": {
+        "defense": 9,
+        "headSlot": 41,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 8,
+                "sign": "+"
+            }
+        }
+    },
+    "558": {
+        "defense": 5,
+        "headSlot": 42,
+        "properties": {
+            "magicDamage": {
+                "value": 0.12,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 12,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 100,
+                "sign": "+"
+            }
+        }
+    },
+    "559": {
+        "defense": 24,
+        "headSlot": 43,
+        "properties": {
+            "meleeCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "684": {
+        "defense": 10,
+        "headSlot": 46,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.16,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.16,
+                "sign": "+"
+            }
+        }
+    },
+    "685": {
+        "defense": 20,
+        "bodySlot": 27,
+        "properties": {
+            "meleeCrit": {
+                "value": 11,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 11,
+                "sign": "+"
+            }
+        }
+    },
+    "686": {
+        "defense": 13,
+        "legSlot": 26,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "687": {
+        "defense": 2,
+        "headSlot": 47
+    },
+    "688": {
+        "defense": 2,
+        "bodySlot": 28
+    },
+    "689": {
+        "defense": 1,
+        "legSlot": 27
+    },
+    "690": {
+        "defense": 3,
+        "headSlot": 48
+    },
+    "691": {
+        "defense": 3,
+        "bodySlot": 29
+    },
+    "692": {
+        "defense": 2,
+        "legSlot": 28
+    },
+    "693": {
+        "defense": 4,
+        "headSlot": 49
+    },
+    "694": {
+        "defense": 5,
+        "bodySlot": 30
+    },
+    "695": {
+        "defense": 3,
+        "legSlot": 29
+    },
+    "696": {
+        "defense": 5,
+        "headSlot": 50
+    },
+    "697": {
+        "defense": 6,
+        "bodySlot": 31
+    },
+    "698": {
+        "defense": 5,
+        "legSlot": 30
+    },
+    "727": {
+        "defense": 1,
+        "headSlot": 52
+    },
+    "728": {
+        "defense": 1,
+        "bodySlot": 32
+    },
+    "729": {
+        "defense": 0,
+        "legSlot": 31
+    },
+    "730": {
+        "defense": 1,
+        "headSlot": 53
+    },
+    "731": {
+        "defense": 2,
+        "bodySlot": 33
+    },
+    "732": {
+        "defense": 1,
+        "legSlot": 32
+    },
+    "733": {
+        "defense": 1,
+        "headSlot": 54
+    },
+    "734": {
+        "defense": 1,
+        "bodySlot": 34
+    },
+    "735": {
+        "defense": 1,
+        "legSlot": 33
+    },
+    "736": {
+        "defense": 2,
+        "headSlot": 55
+    },
+    "737": {
+        "defense": 3,
+        "bodySlot": 35
+    },
+    "738": {
+        "defense": 2,
+        "legSlot": 34
+    },
+    "792": {
+        "defense": 6,
+        "headSlot": 57,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            }
+        }
+    },
+    "793": {
+        "defense": 7,
+        "bodySlot": 37,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            }
+        }
+    },
+    "794": {
+        "defense": 6,
+        "legSlot": 35,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            }
+        }
+    },
+    "803": {
+        "headSlot": 58,
+        "defense": 3
+    },
+    "804": {
+        "bodySlot": 38,
+        "defense": 3
+    },
+    "805": {
+        "legSlot": 36,
+        "defense": 3
+    },
+    "867": {
+        "headSlot": 63,
+        "defense": 2
+    },
+    "879": {
+        "headSlot": 69,
+        "defense": 4
+    },
+    "894": {
+        "defense": 1,
+        "headSlot": 70
+    },
+    "895": {
+        "defense": 1,
+        "bodySlot": 46
+    },
+    "896": {
+        "defense": 1,
+        "legSlot": 42
+    },
+    "924": {
+        "defense": 1,
+        "headSlot": 71
+    },
+    "925": {
+        "defense": 2,
+        "bodySlot": 47
+    },
+    "926": {
+        "defense": 1,
+        "legSlot": 43
+    },
+    "938": {
+        "defense": 6
+    },
+    "954": {
+        "defense": 2,
+        "headSlot": 72
+    },
+    "955": {
+        "defense": 4,
+        "headSlot": 73
+    },
+    "956": {
+        "defense": 6,
+        "headSlot": 74,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "957": {
+        "defense": 7,
+        "bodySlot": 48,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "958": {
+        "defense": 6,
+        "legSlot": 44,
+        "properties": {
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "959": {
+        "defense": 6,
+        "headSlot": 75,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "960": {
+        "defense": 5,
+        "headSlot": 76,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "961": {
+        "defense": 6,
+        "bodySlot": 49,
+        "properties": {
+            "statManaMax2": {
+                "value": 20,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "962": {
+        "defense": 6,
+        "legSlot": 45,
+        "properties": {
+            "statManaMax2": {
+                "value": 20,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "978": {
+        "headSlot": 77,
+        "defense": 3
+    },
+    "979": {
+        "bodySlot": 50,
+        "defense": 3
+    },
+    "980": {
+        "legSlot": 46,
+        "defense": 3
+    },
+    "1001": {
+        "defense": 20,
+        "headSlot": 78,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.16,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "1002": {
+        "defense": 13,
+        "headSlot": 79,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.16,
+                "sign": "+"
+            },
+            "chloroAmmoCost80": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "1003": {
+        "defense": 7,
+        "headSlot": 80,
+        "properties": {
+            "statManaMax2": {
+                "value": 80,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.17,
+                "sign": "-"
+            },
+            "magicDamage": {
+                "value": 0.16,
+                "sign": "+"
+            }
+        }
+    },
+    "1004": {
+        "defense": 18,
+        "bodySlot": 51,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "1005": {
+        "defense": 13,
+        "legSlot": 47,
+        "properties": {
+            "magicCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "1135": {
+        "headSlot": 81,
+        "defense": 1
+    },
+    "1136": {
+        "bodySlot": 52,
+        "defense": 2
+    },
+    "1159": {
+        "defense": 6,
+        "headSlot": 82,
+        "properties": {
+            "whipRangeMultiplier": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "1160": {
+        "defense": 17,
+        "bodySlot": 53,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "1161": {
+        "defense": 12,
+        "legSlot": 48,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "1205": {
+        "defense": 14,
+        "headSlot": 83,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.12,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.12,
+                "sign": "+"
+            }
+        }
+    },
+    "1206": {
+        "defense": 5,
+        "headSlot": 84,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.09,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 9,
+                "sign": "+"
+            }
+        }
+    },
+    "1207": {
+        "defense": 3,
+        "headSlot": 85,
+        "properties": {
+            "magicDamage": {
+                "value": 0.09,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 9,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            }
+        }
+    },
+    "1208": {
+        "defense": 10,
+        "bodySlot": 54,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 2,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 2,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 2,
+                "sign": "+"
+            }
+        }
+    },
+    "1209": {
+        "defense": 8,
+        "legSlot": 49,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.02,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.02,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.02,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.02,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 1,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 1,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "1210": {
+        "defense": 19,
+        "headSlot": 86,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.11,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.11,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.07,
+                "sign": "+"
+            }
+        }
+    },
+    "1211": {
+        "defense": 7,
+        "headSlot": 87,
+        "properties": {
+            "rangedCrit": {
+                "value": 15,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "1212": {
+        "defense": 4,
+        "headSlot": 88,
+        "properties": {
+            "magicCrit": {
+                "value": 18,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 80,
+                "sign": "+"
+            }
+        }
+    },
+    "1213": {
+        "defense": 13,
+        "bodySlot": 55,
+        "properties": {
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 6,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "1214": {
+        "defense": 10,
+        "legSlot": 50,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.11,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "1215": {
+        "defense": 23,
+        "headSlot": 89,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.09,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 9,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.09,
+                "sign": "+"
+            }
+        }
+    },
+    "1216": {
+        "defense": 8,
+        "headSlot": 90,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.16,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "1217": {
+        "defense": 4,
+        "headSlot": 91,
+        "properties": {
+            "magicDamage": {
+                "value": 0.16,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 100,
+                "sign": "+"
+            }
+        }
+    },
+    "1218": {
+        "defense": 15,
+        "bodySlot": 56,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.04,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.04,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.04,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.04,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 3,
+                "sign": "+"
+            }
+        }
+    },
+    "1219": {
+        "defense": 11,
+        "legSlot": 51,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.03,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 3,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "1283": {
+        "bodySlot": 59,
+        "defense": 1,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.07,
+                "sign": "-"
+            }
+        }
+    },
+    "1284": {
+        "bodySlot": 60,
+        "defense": 1,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.09,
+                "sign": "-"
+            }
+        }
+    },
+    "1285": {
+        "bodySlot": 61,
+        "defense": 2,
+        "properties": {
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.11,
+                "sign": "-"
+            }
+        }
+    },
+    "1286": {
+        "bodySlot": 62,
+        "defense": 2,
+        "properties": {
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.13,
+                "sign": "-"
+            }
+        }
+    },
+    "1287": {
+        "defense": 3,
+        "bodySlot": 63,
+        "properties": {
+            "statManaMax2": {
+                "value": 80,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.15,
+                "sign": "-"
+            }
+        }
+    },
+    "1316": {
+        "defense": 21,
+        "headSlot": 99,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "1317": {
+        "defense": 27,
+        "bodySlot": 65,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 8,
+                "sign": "+"
+            }
+        }
+    },
+    "1318": {
+        "defense": 17,
+        "legSlot": 54,
+        "properties": {
+            "meleeCrit": {
+                "value": 4,
+                "sign": "+"
+            }
+        }
+    },
+    "1503": {
+        "defense": 6,
+        "headSlot": 101
+    },
+    "1504": {
+        "defense": 14,
+        "bodySlot": 66,
+        "properties": {
+            "magicDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "1505": {
+        "defense": 10,
+        "legSlot": 55,
+        "properties": {
+            "magicDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "1546": {
+        "defense": 11,
+        "headSlot": 103,
+        "properties": {
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "arrowDamage": {
+                "value": 1.15,
+                "sign": "*"
+            }
+        }
+    },
+    "1547": {
+        "defense": 11,
+        "headSlot": 104,
+        "properties": {
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "bulletDamage": {
+                "value": 1.15,
+                "sign": "*"
+            }
+        }
+    },
+    "1548": {
+        "defense": 11,
+        "headSlot": 105,
+        "properties": {
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rocketDamage": {
+                "value": 1.15,
+                "sign": "*"
+            }
+        }
+    },
+    "1549": {
+        "defense": 24,
+        "bodySlot": 67,
+        "properties": {
+            "rangedCrit": {
+                "value": 13,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.13,
+                "sign": "+"
+            },
+            "ammoCost80": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "1550": {
+        "defense": 16,
+        "legSlot": 56,
+        "properties": {
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.12,
+                "sign": "+"
+            }
+        }
+    },
+    "1613": {
+        "defense": 4
+    },
+    "1731": {
+        "defense": 2,
+        "headSlot": 112
+    },
+    "1732": {
+        "defense": 3,
+        "bodySlot": 75
+    },
+    "1733": {
+        "defense": 2,
+        "legSlot": 64
+    },
+    "1832": {
+        "headSlot": 134,
+        "defense": 9,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.11,
+                "sign": "+"
+            }
+        }
+    },
+    "1833": {
+        "bodySlot": 95,
+        "defense": 11,
+        "properties": {
+            "maxMinions": {
+                "value": 2,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.11,
+                "sign": "+"
+            }
+        }
+    },
+    "1834": {
+        "legSlot": 79,
+        "defense": 10,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.11,
+                "sign": "+"
+            }
+        }
+    },
+    "2189": {
+        "defense": 18,
+        "headSlot": 156,
+        "properties": {
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.13,
+                "sign": "-"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 10,
+                "sign": "+"
+            }
+        }
+    },
+    "2199": {
+        "defense": 23,
+        "headSlot": 157,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "2200": {
+        "defense": 20,
+        "bodySlot": 105,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.06,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "2201": {
+        "defense": 32,
+        "bodySlot": 106,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            }
+        }
+    },
+    "2202": {
+        "defense": 18,
+        "legSlot": 98,
+        "properties": {
+            "meleeSpeed": {
+                "value": 0.06,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.06,
+                "sign": "+"
+            }
+        }
+    },
+    "2275": {
+        "headSlot": 159,
+        "defense": 2,
+        "properties": {
+            "magicDamage": {
+                "value": 0.06,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            }
+        }
+    },
+    "2277": {
+        "bodySlot": 165,
+        "defense": 4,
+        "properties": {
+            "magicDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "2279": {
+        "bodySlot": 167,
+        "defense": 2,
+        "properties": {
+            "magicDamage": {
+                "value": 0.06,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 6,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.1,
+                "sign": "-"
+            }
+        }
+    },
+    "2361": {
+        "defense": 4,
+        "headSlot": 160,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.04,
+                "sign": "+"
+            }
+        }
+    },
+    "2362": {
+        "defense": 5,
+        "bodySlot": 168,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.04,
+                "sign": "+"
+            }
+        }
+    },
+    "2363": {
+        "defense": 4,
+        "legSlot": 103,
+        "properties": {
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "2367": {
+        "defense": 1,
+        "headSlot": 161
+    },
+    "2368": {
+        "bodySlot": 169,
+        "defense": 2
+    },
+    "2369": {
+        "legSlot": 104,
+        "defense": 1
+    },
+    "2370": {
+        "headSlot": 162,
+        "defense": 5,
+        "properties": {
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "2371": {
+        "bodySlot": 170,
+        "defense": 8,
+        "properties": {
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "2372": {
+        "legSlot": 105,
+        "defense": 7,
+        "properties": {
+            "minionDamage": {
+                "value": 0.06,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "2509": {
+        "defense": 1,
+        "headSlot": 166
+    },
+    "2510": {
+        "defense": 1,
+        "bodySlot": 173
+    },
+    "2511": {
+        "defense": 1,
+        "legSlot": 108
+    },
+    "2512": {
+        "defense": 1,
+        "headSlot": 167
+    },
+    "2513": {
+        "defense": 1,
+        "bodySlot": 174
+    },
+    "2514": {
+        "defense": 1,
+        "legSlot": 109
+    },
+    "2757": {
+        "defense": 14,
+        "headSlot": 169,
+        "properties": {
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.16,
+                "sign": "+"
+            }
+        }
+    },
+    "2758": {
+        "defense": 28,
+        "bodySlot": 175,
+        "properties": {
+            "ammoCost75": {
+                "value": "true",
+                "sign": "="
+            },
+            "rangedCrit": {
+                "value": 12,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.12,
+                "sign": "+"
+            }
+        }
+    },
+    "2759": {
+        "defense": 20,
+        "legSlot": 110,
+        "properties": {
+            "rangedCrit": {
+                "value": 8,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.08,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "2760": {
+        "defense": 14,
+        "headSlot": 170,
+        "properties": {
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.15,
+                "sign": "-"
+            },
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.07,
+                "sign": "+"
+            }
+        }
+    },
+    "2761": {
+        "defense": 18,
+        "bodySlot": 176,
+        "properties": {
+            "magicDamage": {
+                "value": 0.09,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 9,
+                "sign": "+"
+            }
+        }
+    },
+    "2762": {
+        "defense": 14,
+        "legSlot": 111,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "2763": {
+        "defense": 24,
+        "headSlot": 171,
+        "properties": {
+            "aggro": {
+                "value": 300,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 26,
+                "sign": "+"
+            },
+            "lifeRegen": {
+                "value": 2,
+                "sign": "+"
+            }
+        }
+    },
+    "2764": {
+        "defense": 34,
+        "bodySlot": 177,
+        "properties": {
+            "aggro": {
+                "value": 300,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.29,
+                "sign": "+"
+            },
+            "lifeRegen": {
+                "value": 2,
+                "sign": "+"
+            }
+        }
+    },
+    "2765": {
+        "defense": 20,
+        "legSlot": 112,
+        "properties": {
+            "aggro": {
+                "value": 300,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "lifeRegen": {
+                "value": 2,
+                "sign": "+"
+            }
+        }
+    },
+    "3016": {
+        "defense": 8
+    },
+    "3097": {
+        "defense": 2
+    },
+    "3109": {
+        "defense": 4,
+        "headSlot": 179,
+        "properties": {
+            "nightVision": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "3187": {
+        "defense": 5,
+        "headSlot": 180
+    },
+    "3188": {
+        "defense": 6,
+        "bodySlot": 182
+    },
+    "3189": {
+        "defense": 5,
+        "legSlot": 122
+    },
+    "3266": {
+        "headSlot": 185,
+        "defense": 4,
+        "properties": {
+            "minionDamage": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "3267": {
+        "bodySlot": 187,
+        "defense": 6,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3268": {
+        "legSlot": 127,
+        "defense": 5,
+        "properties": {
+            "minionDamage": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "3374": {
+        "defense": 4,
+        "headSlot": 188,
+        "properties": {
+            "rangedCrit": {
+                "value": 4,
+                "sign": "+"
+            }
+        }
+    },
+    "3375": {
+        "defense": 5,
+        "bodySlot": 189,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "3376": {
+        "defense": 4,
+        "legSlot": 129,
+        "properties": {
+            "rangedCrit": {
+                "value": 4,
+                "sign": "+"
+            }
+        }
+    },
+    "3381": {
+        "defense": 10,
+        "headSlot": 189,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "maxTurrets": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.22,
+                "sign": "+"
+            }
+        }
+    },
+    "3382": {
+        "defense": 16,
+        "bodySlot": 190,
+        "properties": {
+            "maxMinions": {
+                "value": 2,
+                "sign": "+"
+            },
+            "whipRangeMultiplier": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.22,
+                "sign": "+"
+            }
+        }
+    },
+    "3383": {
+        "defense": 12,
+        "legSlot": 130,
+        "properties": {
+            "maxMinions": {
+                "value": 2,
+                "sign": "+"
+            },
+            "whipRangeMultiplier": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.22,
+                "sign": "+"
+            }
+        }
+    },
+    "3776": {
+        "defense": 6,
+        "headSlot": 200,
+        "properties": {
+            "magicDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.15,
+                "sign": "+"
+            }
+        }
+    },
+    "3777": {
+        "defense": 12,
+        "bodySlot": 198,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3778": {
+        "defense": 8,
+        "legSlot": 142,
+        "properties": {
+            "statManaMax2": {
+                "value": 40,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3797": {
+        "headSlot": 203,
+        "defense": 7,
+        "properties": {
+            "maxTurrets": {
+                "value": 1,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.1,
+                "sign": "-"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3798": {
+        "bodySlot": 200,
+        "defense": 15,
+        "properties": {
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3799": {
+        "legSlot": 144,
+        "defense": 10,
+        "properties": {
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 20,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3800": {
+        "headSlot": 204,
+        "defense": 13,
+        "properties": {
+            "maxTurrets": {
+                "value": 1,
+                "sign": "+"
+            },
+            "lifeRegen": {
+                "value": 4,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3801": {
+        "bodySlot": 201,
+        "defense": 27,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3802": {
+        "legSlot": 145,
+        "defense": 18,
+        "properties": {
+            "minionDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 15,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3803": {
+        "headSlot": 205,
+        "defense": 7,
+        "properties": {
+            "maxTurrets": {
+                "value": 1,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3804": {
+        "bodySlot": 202,
+        "defense": 17,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "huntressAmmoCost90": {
+                "value": "true",
+                "sign": "="
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3805": {
+        "legSlot": 146,
+        "defense": 12,
+        "properties": {
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3806": {
+        "headSlot": 206,
+        "defense": 8,
+        "properties": {
+            "maxTurrets": {
+                "value": 1,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3807": {
+        "bodySlot": 203,
+        "defense": 22,
+        "properties": {
+            "meleeDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3808": {
+        "legSlot": 148,
+        "defense": 16,
+        "properties": {
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 15,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3871": {
+        "defense": 20,
+        "headSlot": 210,
+        "properties": {
+            "maxTurrets": {
+                "value": 2,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3872": {
+        "defense": 24,
+        "bodySlot": 204,
+        "properties": {
+            "minionDamage": {
+                "value": 0.3,
+                "sign": "+"
+            },
+            "lifeRegen": {
+                "value": 8,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3873": {
+        "defense": 24,
+        "legSlot": 152,
+        "properties": {
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 20,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3874": {
+        "defense": 7,
+        "headSlot": 211,
+        "properties": {
+            "maxTurrets": {
+                "value": 2,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3875": {
+        "defense": 21,
+        "bodySlot": 205,
+        "properties": {
+            "minionDamage": {
+                "value": 0.25,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.15,
+                "sign": "-"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3876": {
+        "defense": 14,
+        "legSlot": 153,
+        "properties": {
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 25,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3877": {
+        "defense": 8,
+        "headSlot": 212,
+        "properties": {
+            "maxTurrets": {
+                "value": 2,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3878": {
+        "defense": 24,
+        "bodySlot": 206,
+        "properties": {
+            "minionDamage": {
+                "value": 0.25,
+                "sign": "+"
+            },
+            "rangedDamage": {
+                "value": 0.25,
+                "sign": "+"
+            },
+            "ammoCost80": {
+                "value": "true",
+                "sign": "="
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3879": {
+        "defense": 16,
+        "legSlot": 154,
+        "properties": {
+            "minionDamage": {
+                "value": 0.25,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3880": {
+        "defense": 10,
+        "headSlot": 213,
+        "properties": {
+            "maxTurrets": {
+                "value": 2,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3881": {
+        "defense": 26,
+        "bodySlot": 207,
+        "properties": {
+            "meleeSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3882": {
+        "defense": 18,
+        "legSlot": 156,
+        "properties": {
+            "minionDamage": {
+                "value": 0.2,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 20,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.3,
+                "sign": "+"
+            },
+            "break": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "3992": {
+        "defense": 8
+    },
+    "3997": {
+        "defense": 6
+    },
+    "3998": {
+        "defense": 10
+    },
+    "4008": {
+        "defense": 4,
+        "properties": {
+            "nightVision": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "4256": {
+        "defense": 3,
+        "bodySlot": 213,
+        "properties": {
+            "statManaMax2": {
+                "value": 60,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.13,
+                "sign": "-"
+            }
+        }
+    },
+    "4873": {
+        "defense": 1,
+        "headSlot": 254,
+        "properties": {
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "4896": {
+        "defense": 24,
+        "headSlot": 255,
+        "properties": {
+            "meleeCrit": {
+                "value": 10,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "meleeSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            }
+        }
+    },
+    "4897": {
+        "defense": 9,
+        "headSlot": 256,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.15,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 8,
+                "sign": "+"
+            }
+        }
+    },
+    "4898": {
+        "defense": 5,
+        "headSlot": 257,
+        "properties": {
+            "magicDamage": {
+                "value": 0.12,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 12,
+                "sign": "+"
+            },
+            "statManaMax2": {
+                "value": 100,
+                "sign": "+"
+            }
+        }
+    },
+    "4899": {
+        "defense": 1,
+        "headSlot": 258,
+        "properties": {
+            "minionDamage": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            }
+        }
+    },
+    "4900": {
+        "defense": 15,
+        "bodySlot": 229,
+        "properties": {
+            "magicCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 7,
+                "sign": "+"
+            },
+            "rangedCrit": {
+                "value": 7,
+                "sign": "+"
+            }
+        }
+    },
+    "4901": {
+        "defense": 11,
+        "legSlot": 212,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.07,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.08,
+                "sign": "+"
+            }
+        }
+    },
+    "4982": {
+        "defense": 12,
+        "headSlot": 261,
+        "properties": {
+            "rangedCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "meleeCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "magicCrit": {
+                "value": 5,
+                "sign": "+"
+            },
+            "manaCost": {
+                "value": 0.1,
+                "sign": "-"
+            }
+        }
+    },
+    "4983": {
+        "defense": 14,
+        "bodySlot": 230,
+        "properties": {
+            "rangedDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "meleeDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "magicDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            },
+            "huntressAmmoCost90": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "4984": {
+        "defense": 10,
+        "legSlot": 213,
+        "properties": {
+            "meleeSpeed": {
+                "value": 0.1,
+                "sign": "+"
+            },
+            "moveSpeed": {
+                "value": 0.2,
+                "sign": "+"
+            }
+        }
+    },
+    "5001": {
+        "defense": 3,
+        "legSlot": 217,
+        "properties": {
+            "moveSpeed": {
+                "value": 0.25,
+                "sign": "+"
+            },
+            "moonLordLegs": {
+                "value": "true",
+                "sign": "="
+            },
+            "if": {
+                "value": 1,
+                "sign": "+"
+            },
+            "hasRaisableShield": {
+                "value": "true",
+                "sign": "="
+            }
+        }
+    },
+    "5068": {
+        "bodySlot": 241,
+        "defense": 1,
+        "properties": {
+            "maxMinions": {
+                "value": 1,
+                "sign": "+"
+            },
+            "minionDamage": {
+                "value": 0.05,
+                "sign": "+"
+            }
+        }
+    },
+    "5279": {
+        "defense": 1,
+        "headSlot": 278
+    },
+    "5280": {
+        "defense": 1,
+        "bodySlot": 246
+    },
+    "5281": {
+        "defense": 1,
+        "legSlot": 234
+    }
+}
