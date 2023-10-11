@@ -1,11 +1,10 @@
-from armor_optimizer import find_best_set, get_score_functions, string_armor_set, scales
-import streamlit as st
+import http.server
+import socketserver
 
-sliders = {
-    key: st.sidebar.slider(key,0.,float(scales[key]),None) for key in scales.keys()
-}
-progression = st.sidebar.slider("Progression",0,5,None)
+PORT = 8000
 
-st.title("Armor Optimizer")
+Handler = http.server.SimpleHTTPRequestHandler
 
-st.header(string_armor_set(find_best_set(get_score_functions(sliders),progression)))
+with socketserver.TCPServer(("", PORT), Handler) as httpd:
+    print("serving at port", PORT)
+    httpd.serve_forever()

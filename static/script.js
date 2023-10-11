@@ -94,7 +94,16 @@ function getArmorSetScore(armorSet, sf) {
 
     return score;
 }
-
+function loadFile(filePath) {
+    var result = null;
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("GET", filePath, false);
+    xmlhttp.send();
+    if (xmlhttp.status==200) {
+      result = xmlhttp.responseText;
+    }
+    return result;
+  }
 function product() {
     var args = Array.prototype.slice.call(arguments); // makes array from arguments
     return args.reduce(function tl (accumulator, value) {
@@ -108,20 +117,20 @@ function product() {
     }, [[]]);
   }
 
-const SCORE_CUTOFF = 3;
+const SCORE_CUTOFF = 6;
 
-const ITEM_IDS = require("./item_ids_parsed.json");
-const ITEMS = require("./raw_item_data/Items.json").ItemName;
+const ITEM_IDS = JSON.parse(loadFile("item_ids_parsed.json"));
+const ITEMS = JSON.parse(loadFile("raw_item_data/Items.json")).ItemName;
 
-function findBestSet(sf, progressionId = 0) {
+
+function findBestSets(sf, progressionId = 0, n = 3) {
     const armorsHead = [];
     const armorsBody = [];
     const armorsLegs = [];
 
-    const items = require("./item_data_new.json");
-    
-    for (const id in items) {
-        const val = items[id];
+    const items = JSON.parse(loadFile("static/item_data_new.json"))
+    for (let id in items) {
+        var val = items[id];
         const armor = new Armor(id, val);
         if (armor.progressionId > progressionId) {
             continue;
@@ -145,17 +154,20 @@ function findBestSet(sf, progressionId = 0) {
     let bestScore = -543543;
     let bestSet = null;
     
+    let sets = [];
+
     for (const combination of product(...s)) {
         const score = getArmorSetScore(combination, sf);
+        sets.push(combination);
         if (score > bestScore) {
             bestScore = score;
             bestSet = combination;
         }
     }
 
-    console.log(bestScore)
+    sets.sort((a, b) => getArmorSetScore(b, sf) - getArmorSetScore(a, sf));
 
-    return bestSet;
+    return sets.slice(0, n);
 }
 
 function getItemName(id) {
@@ -166,12 +178,11 @@ function stringArmorSet(armorSet) {
     return armorSet.map(armor => getItemName(armor.id)).join(", ");
 }
 
+function stringArmorSets(armorSets) {
+    return armorSets.map(armorSet => stringArmorSet(armorSet)).join("\n");
+}
 function main() {
-    console.log(stringArmorSet(findBestSet(getScoreFunctions(scales))))
-    
-
+    console.log(stringArmorSets(findBestSets(
+        getScoreFunctions(scales),0,5)))
 }
 
-if (require.main === module) {
-    main();
-}

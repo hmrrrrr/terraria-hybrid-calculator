@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="./static/script.js"></script>
+
+    <title>Terraria Hybrid Generator</title>
+    <style>
+        @font-face {
+            font-family: 'Andy Bold';
+            src: url('./static/ANDYB.TTF');
+        }
+
+        body {
+            background-color: #3e393d;
+        }
+
+        .button {
+            background-color: #6CCFF0;
+            border: none;
+            color: white;
+            padding: .5rem;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: .5rem;
+            cursor: pointer;
+            background-size: contain;
+            width: 10rem;
+            height: 10rem;
+        }
+
+        .button.secondary {
+            width: 6rem;
+            height: 6rem;
+            margin-top: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+
+        .button_image {
+            object-fit: contain;
+            image-rendering: pixelated;
+            position: relative;
+            width: 80%;
+            height: 80%;
+        }
+
+        .button:active {
+            background-color: #3D7CD5;
+            /* Darker shade of green */
+            transform: translateY(2px);
+            /* Move button down 2 pixels when active */
+        }
+
+        .button.active {
+            background-color: #3D7CD5;
+            /* Darker shade of green */
+        }
+
+        .sidebar {
+            background-color: #f1f1f1;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: fit-content;
+            z-index: 1;
+            overflow-x: hidden;
+            padding: 1rem;
+            background-color: rgba(10, 10, 10, 0.37);
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .sidebar-column {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        h1,
+        h2 {
+            text-align: center;
+            font-weight: bold;
+            font-family: "Andy Bold";
+            text-wrap: wrap;
+            color: #f1f1f1;
+        }
+
+        .content {
+            margin-left: 24rem;
+            margin-right: 4rem;
+            margin-top: 12rem;
+            padding: 1rem;
+            height: fit-content;
+        }
+
+        input[type=range] {
+            -webkit-appearance: none;
+            width: 100%;
+            height: 10px;
+            background: #9977a0;
+            ;
+            outline: none;
+            opacity: 0.7;
+            -webkit-transition: .2s;
+            transition: opacity .2s;
+            border-radius: 5px;
+        }
+
+        input[type=range]:hover {
+            opacity: 1;
+        }
+
+        input[type=range]::-webkit-slider-thumb {
+            appearance: none;
+            width: 38px;
+            height: 38px;
+            background-image: url(https://terraria.wiki.gg/images/6/66/Defense.png);
+            cursor: pointer;
+            border-radius: 0%;
+        }
+
+        input[type=range]::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+        }
+
+        .box {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 300px;
+            margin: 0 20px;
+        }
+
+        .box img {
+            width: 100%;
+            height: 90px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="sidebar">
+        <div class="sidebar-column">
+            <h1>Primary<br>Class(es)</h1>
+            <button class="button" id="melee"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/c/cf/Volcano.png></img></button>
+            <button class="button" id="ranger"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/d/df/Hellwing_Bow.png></img></button>
+            <button class="button" id="mage"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/0/03/Bee_Gun.png></img></button>
+            <button class="button" id="summon"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/a/a0/Snapthorn.png></img></button>
+        </div>
+
+        <div class="sidebar-column">
+            <h2>Secondary<br>Class(es)</h2>
+            <button class="button secondary" id="melee"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/c/cb/Silver_Broadsword.png></img></button>
+            <button class="button secondary" id="ranger"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/e/e8/Silver_Bow.png></img></button>
+            <button class="button secondary" id="mage"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/9/91/Wand_of_Sparking.png></img></button>
+            <button class="button secondary" id="summon"><img class="button_image"
+                    src=https://terraria.wiki.gg/images/4/4e/Finch_Staff.png></img></button>
+        </div>
+    </div>
+    <div class="content">
+        <div style="display: flex;">
+            <h1 style="text-align: center; margin: 0%; width: fit-content;">More Offensive</h1>
+            <input type="range" min="0.4" max="4" value="0.55" step=".045" class="slider" id="defenseSlider">
+            <h1 style="text-align: center; margin: 0%; width: fit-content;">More Defensive</h1>
+        </div>
+        
+        <h1 id="armor_string" style="text-align: center; width: 100%;"></h1>
+
+        <div class="container">
+            <div class="box">
+                <h1 style="text-align: center; width: 100%;">1</h1>
+                <img src="https://via.placeholder.com/150" id="img-1-1" alt="image 1">
+                <img src="https://via.placeholder.com/150" id="img-1-2" alt="image 2">
+                <img src="https://via.placeholder.com/150" id="img-1-3" alt="image 3">
+            </div>
+            <div class="box">
+                <h1 style="text-align: center; width: 100%;">2</h1>
+                <img src="https://via.placeholder.com/150" id="img-2-1" alt="image 4">
+                <img src="https://via.placeholder.com/150" id="img-2-2" alt="image 5">
+                <img src="https://via.placeholder.com/150" id="img-2-3" alt="image 6">
+            </div>
+            <div class="box">
+                <h1 style="text-align: center; width: 100%;">3</h1>
+                <img src="https://via.placeholder.com/150" id="img-3-1" alt="image 7">
+                <img src="https://via.placeholder.com/150" id="img-3-2" alt="image 8">
+                <img src="https://via.placeholder.com/150" id="img-3-3" alt="image 9">
+            </div>
+        </div>
+
+<script>
+    $(document).ready(function () {
+        $('.button').click(function () {
+            $(this).toggleClass('active');
+            console.log(this.id);
+
+            $('.button#' + this.id).not(this).removeClass('active');
+            generate()
+        });
+
+        $('#defenseSlider').on('input', function () {
+            console.log($(this).val());
+            generate()
+        });
+
+    });
+
+    const secondary_scale = 0.65;
+
+    function get_image(item) {
+        
+    }
+
+
+
+    function generate() {
+        console.log("generating..")
+        scales.defense = $('#defenseSlider').val()
+
+        let melee = $('#melee.active')
+        let melee_mult = 1.0 - (melee.hasClass("secondary") ? secondary_scale : 0)
+        if(melee.hasClass("active")) scales.melee = 1.0 * melee_mult
+        else scales.melee = 0.0
+        let ranger = $('#ranger.active')
+        let ranger_mult = 1.0 - (ranger.hasClass("secondary") ? secondary_scale : 0)
+        if(ranger.hasClass("active")) scales.ranger = 1.0 * ranger_mult
+        else scales.ranger = 0.0
+        let mage = $('#mage.active')
+        let mage_mult = 1.0 - (mage.hasClass("secondary") ? secondary_scale : 0)
+        if(mage.hasClass("active")) scales.mage = 1.0 * mage_mult
+        else scales.mage = 0.0
+
+        let summon = $('#summon.active')
+        let summon_mult = 1.0 - (summon.hasClass("secondary") ? secondary_scale : 0)
+        if(summon.hasClass("active")) scales.summon = 1.0 * summon_mult
+        else scales.summon = 0.0
+
+        scales.meleeDamage = 100*scales.melee
+        scales.meleeCrit = scales.melee
+
+        scales.rangedDamage = 100*scales.ranger
+        scales.rangedCrit = scales.ranger
+        
+        scales.magicDamage = 100*scales.mage
+        scales.magicCrit = scales.mage
+        scales.statManaMax2 = 0.12*scales.mage
+        scales.manaCost = 120*scales.mage
+        
+        scales.summonDamage = 100*scales.summon
+        scales.maxMinions = 25*scales.summon
+
+        scales.meleeSpeed = 100*scales.melee + 35*scales.summon
+        
+        console.log(scales)
+        let sets = findBestSets(getScoreFunctions(scales), 2, 3)
+
+        $('#armor_string').text(stringArmorSet(sets[0]));
+        console.log(stringArmorSets(sets))
+        // for(let i = 0;i < 3;i++) {
+        //     let set = sets[i]
+        //     let set_id = i+1
+        //     for(let j = 0;j < 3;j++) {
+        //         let item = set[j]
+        //         let item_id = j+1
+        //         let img = document.getElementById("img-" + set_id + "-" + item_id)
+        //         img.src = item.image
+        //     }
+        // }
+    }
+</script>
+
+</body>
+
+</html>
