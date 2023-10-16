@@ -3,6 +3,7 @@
 
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="./static/script.js"></script>
 
     <title>Terraria Hybrid Generator</title>
@@ -183,7 +184,7 @@
     <div class="content">
         <div style="display: flex;">
             <h1 style="text-align: center; margin: 0%; width: fit-content;">More Offensive</h1>
-            <input type="range" min="0.4" max="4" value="0.55" step=".045" class="slider" id="defenseSlider">
+            <input type="range" min="0.4" max="2" value="0.55" step=".045" class="slider" id="defenseSlider">
             <h1 style="text-align: center; margin: 0%; width: fit-content;">More Defensive</h1>
         </div>
         
@@ -272,22 +273,24 @@
         scales.maxMinions = 25*scales.summon
 
         scales.meleeSpeed = 100*scales.melee + 35*scales.summon
-        
+        scales.moveSpeed = 0
         console.log(scales)
-        let sets = findBestSets(getScoreFunctions(scales), 2, 3)
+        let sets = findBestSets(getScoreFunctions(scales), 1, 3)
 
         $('#armor_string').text(stringArmorSet(sets[0]));
         console.log(stringArmorSets(sets))
-        // for(let i = 0;i < 3;i++) {
-        //     let set = sets[i]
-        //     let set_id = i+1
-        //     for(let j = 0;j < 3;j++) {
-        //         let item = set[j]
-        //         let item_id = j+1
-        //         let img = document.getElementById("img-" + set_id + "-" + item_id)
-        //         img.src = item.image
-        //     }
-        // }
+        for(let i = 0;i < 3;i++) {
+            let set = sets[i]
+            let set_id = i+1
+            for(let j = 0;j < 3;j++) {
+                let item = set[j]
+                let item_id = j+1
+                let img = document.getElementById("img-" + set_id + "-" + item_id)
+                console.log(img)
+                console.log(item)
+                img.src = item.image
+            }
+        }
     }
 </script>
 

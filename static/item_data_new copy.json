@@ -6,8 +6,7 @@
         "progression_id": 0,
         "set_name": "Goggles",
         "name": "Goggles",
-        "name_id": "Goggles",
-        "image": "https://terraria.wiki.gg/images/1/1a/Goggles.png"
+        "name_id": "Goggles"
     },
     "76": {
         "defense": 1,
@@ -16,8 +15,7 @@
         "progression_id": 0,
         "set_name": "Copper armor",
         "name": "Copper Greaves",
-        "name_id": "CopperGreaves",
-        "image": "https://terraria.wiki.gg/images/1/16/Copper_Greaves.png"
+        "name_id": "CopperGreaves"
     },
     "77": {
         "defense": 2,
@@ -26,8 +24,7 @@
         "progression_id": 0,
         "set_name": "Iron armor",
         "name": "Iron Greaves",
-        "name_id": "IronGreaves",
-        "image": "https://terraria.wiki.gg/images/7/73/Iron_Greaves.png"
+        "name_id": "IronGreaves"
     },
     "78": {
         "defense": 3,
@@ -36,8 +33,7 @@
         "progression_id": 0,
         "set_name": "Silver armor",
         "name": "Silver Greaves",
-        "name_id": "SilverGreaves",
-        "image": "https://terraria.wiki.gg/images/8/8c/Silver_Greaves.png"
+        "name_id": "SilverGreaves"
     },
     "79": {
         "defense": 4,
@@ -46,8 +42,7 @@
         "progression_id": 0,
         "set_name": "Gold armor",
         "name": "Gold Greaves",
-        "name_id": "GoldGreaves",
-        "image": "https://terraria.wiki.gg/images/0/08/Gold_Greaves.png"
+        "name_id": "GoldGreaves"
     },
     "80": {
         "defense": 2,
@@ -56,8 +51,7 @@
         "progression_id": 0,
         "set_name": "Copper armor",
         "name": "Copper Chainmail",
-        "name_id": "CopperChainmail",
-        "image": "https://terraria.wiki.gg/images/c/c9/Copper_Chainmail.png"
+        "name_id": "CopperChainmail"
     },
     "81": {
         "defense": 3,
@@ -66,8 +60,7 @@
         "progression_id": 0,
         "set_name": "Iron armor",
         "name": "Iron Chainmail",
-        "name_id": "IronChainmail",
-        "image": "https://terraria.wiki.gg/images/a/a2/Iron_Chainmail.png"
+        "name_id": "IronChainmail"
     },
     "82": {
         "defense": 4,
@@ -76,8 +69,7 @@
         "progression_id": 0,
         "set_name": "Silver armor",
         "name": "Silver Chainmail",
-        "name_id": "SilverChainmail",
-        "image": "https://terraria.wiki.gg/images/8/81/Silver_Chainmail.png"
+        "name_id": "SilverChainmail"
     },
     "83": {
         "defense": 5,
@@ -86,8 +78,7 @@
         "progression_id": 0,
         "set_name": "Gold armor",
         "name": "Gold Chainmail",
-        "name_id": "GoldChainmail",
-        "image": "https://terraria.wiki.gg/images/5/55/Gold_Chainmail.png"
+        "name_id": "GoldChainmail"
     },
     "88": {
         "defense": 2,
@@ -96,8 +87,7 @@
         "progression_id": 0,
         "set_name": "Mining armor",
         "name": "Mining Helmet",
-        "name_id": "MiningHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a4/Mining_Helmet.png"
+        "name_id": "MiningHelmet"
     },
     "89": {
         "defense": 1,
@@ -106,8 +96,7 @@
         "progression_id": 0,
         "set_name": "Copper armor",
         "name": "Copper Helmet",
-        "name_id": "CopperHelmet",
-        "image": "https://terraria.wiki.gg/images/1/1d/Copper_Helmet.png"
+        "name_id": "CopperHelmet"
     },
     "90": {
         "defense": 2,
@@ -116,8 +105,7 @@
         "progression_id": 0,
         "set_name": "Iron armor",
         "name": "Iron Helmet",
-        "name_id": "IronHelmet",
-        "image": "https://terraria.wiki.gg/images/f/f7/Iron_Helmet.png"
+        "name_id": "IronHelmet"
     },
     "91": {
         "defense": 3,
@@ -126,8 +114,7 @@
         "progression_id": 0,
         "set_name": "Silver armor",
         "name": "Silver Helmet",
-        "name_id": "SilverHelmet",
-        "image": "https://terraria.wiki.gg/images/2/29/Silver_Helmet.png"
+        "name_id": "SilverHelmet"
     },
     "92": {
         "defense": 4,
@@ -136,8 +123,7 @@
         "progression_id": 0,
         "set_name": "Gold armor",
         "name": "Gold Helmet",
-        "name_id": "GoldHelmet",
-        "image": "https://terraria.wiki.gg/images/5/59/Gold_Helmet.png"
+        "name_id": "GoldHelmet"
     },
     "100": {
         "defense": 6,
@@ -160,8 +146,7 @@
         "progression_id": 1,
         "set_name": "Shadow armor",
         "name": "Shadow Greaves",
-        "name_id": "ShadowGreaves",
-        "image": "https://terraria.wiki.gg/images/f/fc/Shadow_Greaves.png"
+        "name_id": "ShadowGreaves"
     },
     "101": {
         "defense": 7,
@@ -184,8 +169,7 @@
         "progression_id": 1,
         "set_name": "Shadow armor",
         "name": "Shadow Scalemail",
-        "name_id": "ShadowScalemail",
-        "image": "https://terraria.wiki.gg/images/e/ee/Shadow_Scalemail.png"
+        "name_id": "ShadowScalemail"
     },
     "102": {
         "defense": 6,
@@ -208,8 +192,7 @@
         "progression_id": 1,
         "set_name": "Shadow armor",
         "name": "Shadow Helmet",
-        "name_id": "ShadowHelmet",
-        "image": "https://terraria.wiki.gg/images/6/62/Shadow_Helmet.png"
+        "name_id": "ShadowHelmet"
     },
     "123": {
         "defense": 5,
@@ -224,8 +207,7 @@
         "progression_id": 1,
         "set_name": "Meteor armor",
         "name": "Meteor Helmet",
-        "name_id": "MeteorHelmet",
-        "image": "https://terraria.wiki.gg/images/3/36/Meteor_Helmet.png"
+        "name_id": "MeteorHelmet"
     },
     "124": {
         "defense": 6,
@@ -240,8 +222,7 @@
         "progression_id": 1,
         "set_name": "Meteor armor",
         "name": "Meteor Suit",
-        "name_id": "MeteorSuit",
-        "image": "https://terraria.wiki.gg/images/b/be/Meteor_Suit.png"
+        "name_id": "MeteorSuit"
     },
     "125": {
         "defense": 5,
@@ -256,8 +237,7 @@
         "progression_id": 1,
         "set_name": "Meteor armor",
         "name": "Meteor Leggings",
-        "name_id": "MeteorLeggings",
-        "image": "https://terraria.wiki.gg/images/e/e5/Meteor_Leggings.png"
+        "name_id": "MeteorLeggings"
     },
     "151": {
         "defense": 6,
@@ -272,8 +252,7 @@
         "progression_id": 1,
         "set_name": "Necro armor",
         "name": "Necro Helmet",
-        "name_id": "NecroHelmet",
-        "image": "https://terraria.wiki.gg/images/3/36/Necro_Helmet.png"
+        "name_id": "NecroHelmet"
     },
     "152": {
         "defense": 7,
@@ -288,8 +267,7 @@
         "progression_id": 1,
         "set_name": "Necro armor",
         "name": "Necro Breastplate",
-        "name_id": "NecroBreastplate",
-        "image": "https://terraria.wiki.gg/images/2/2b/Necro_Breastplate.png"
+        "name_id": "NecroBreastplate"
     },
     "153": {
         "defense": 6,
@@ -304,8 +282,7 @@
         "progression_id": 1,
         "set_name": "Necro armor",
         "name": "Necro Greaves",
-        "name_id": "NecroGreaves",
-        "image": "https://terraria.wiki.gg/images/7/7e/Necro_Greaves.png"
+        "name_id": "NecroGreaves"
     },
     "156": {
         "defense": 1
@@ -337,8 +314,7 @@
         "progression_id": 0,
         "set_name": "Jungle armor",
         "name": "Jungle Hat",
-        "name_id": "JungleHat",
-        "image": "https://terraria.wiki.gg/images/3/36/Jungle_Hat.png"
+        "name_id": "JungleHat"
     },
     "229": {
         "defense": 6,
@@ -357,8 +333,7 @@
         "progression_id": 0,
         "set_name": "Jungle armor",
         "name": "Jungle Shirt",
-        "name_id": "JungleShirt",
-        "image": "https://terraria.wiki.gg/images/f/f3/Jungle_Shirt.png"
+        "name_id": "JungleShirt"
     },
     "230": {
         "defense": 6,
@@ -377,8 +352,7 @@
         "progression_id": 0,
         "set_name": "Jungle armor",
         "name": "Jungle Pants",
-        "name_id": "JunglePants",
-        "image": "https://terraria.wiki.gg/images/7/78/Jungle_Pants.png"
+        "name_id": "JunglePants"
     },
     "231": {
         "defense": 8,
@@ -393,8 +367,7 @@
         "progression_id": 1,
         "set_name": "Molten armor",
         "name": "Molten Helmet",
-        "name_id": "MoltenHelmet",
-        "image": "https://terraria.wiki.gg/images/d/d8/Molten_Helmet.png"
+        "name_id": "MoltenHelmet"
     },
     "232": {
         "defense": 9,
@@ -409,8 +382,7 @@
         "progression_id": 1,
         "set_name": "Molten armor",
         "name": "Molten Breastplate",
-        "name_id": "MoltenBreastplate",
-        "image": "https://terraria.wiki.gg/images/3/35/Molten_Breastplate.png"
+        "name_id": "MoltenBreastplate"
     },
     "233": {
         "defense": 8,
@@ -425,8 +397,7 @@
         "progression_id": 1,
         "set_name": "Molten armor",
         "name": "Molten Greaves",
-        "name_id": "MoltenGreaves",
-        "image": "https://terraria.wiki.gg/images/7/75/Molten_Greaves.png"
+        "name_id": "MoltenGreaves"
     },
     "238": {
         "headSlot": 14,
@@ -441,8 +412,7 @@
         "progression_id": 0,
         "set_name": "Wizard Hat",
         "name": "Wizard Hat",
-        "name_id": "WizardHat",
-        "image": "https://terraria.wiki.gg/images/9/98/Wizard_Hat.png"
+        "name_id": "WizardHat"
     },
     "256": {
         "headSlot": 22,
@@ -465,8 +435,7 @@
         "progression_id": 1,
         "set_name": "Ninja armor",
         "name": "Ninja Hood",
-        "name_id": "NinjaHood",
-        "image": "https://terraria.wiki.gg/images/c/c4/Ninja_Hood.png"
+        "name_id": "NinjaHood"
     },
     "257": {
         "bodySlot": 14,
@@ -489,8 +458,7 @@
         "progression_id": 1,
         "set_name": "Ninja armor",
         "name": "Ninja Shirt",
-        "name_id": "NinjaShirt",
-        "image": "https://terraria.wiki.gg/images/f/f9/Ninja_Shirt.png"
+        "name_id": "NinjaShirt"
     },
     "258": {
         "legSlot": 14,
@@ -513,8 +481,7 @@
         "progression_id": 1,
         "set_name": "Ninja armor",
         "name": "Ninja Pants",
-        "name_id": "NinjaPants",
-        "image": "https://terraria.wiki.gg/images/a/ad/Ninja_Pants.png"
+        "name_id": "NinjaPants"
     },
     "268": {
         "headSlot": 27,
@@ -529,8 +496,7 @@
         "progression_id": 0,
         "set_name": "Diving Helmet",
         "name": "Diving Helmet",
-        "name_id": "DivingHelmet",
-        "image": "https://terraria.wiki.gg/images/c/cb/Diving_Helmet.png"
+        "name_id": "DivingHelmet"
     },
     "371": {
         "defense": 3,
@@ -553,8 +519,7 @@
         "progression_id": 2,
         "set_name": "Cobalt armor",
         "name": "Cobalt Hat",
-        "name_id": "CobaltHat",
-        "image": "https://terraria.wiki.gg/images/2/2b/Cobalt_Hat.png"
+        "name_id": "CobaltHat"
     },
     "372": {
         "defense": 14,
@@ -573,8 +538,7 @@
         "progression_id": 2,
         "set_name": "Cobalt armor",
         "name": "Cobalt Helmet",
-        "name_id": "CobaltHelmet",
-        "image": "https://terraria.wiki.gg/images/c/c3/Cobalt_Helmet.png"
+        "name_id": "CobaltHelmet"
     },
     "373": {
         "defense": 5,
@@ -593,8 +557,7 @@
         "progression_id": 2,
         "set_name": "Cobalt armor",
         "name": "Cobalt Mask",
-        "name_id": "CobaltMask",
-        "image": "https://terraria.wiki.gg/images/b/be/Cobalt_Mask.png"
+        "name_id": "CobaltMask"
     },
     "374": {
         "defense": 10,
@@ -617,8 +580,7 @@
         "progression_id": 2,
         "set_name": "Cobalt armor",
         "name": "Cobalt Breastplate",
-        "name_id": "CobaltBreastplate",
-        "image": "https://terraria.wiki.gg/images/a/ae/Cobalt_Breastplate.png"
+        "name_id": "CobaltBreastplate"
     },
     "375": {
         "defense": 8,
@@ -649,8 +611,7 @@
         "progression_id": 2,
         "set_name": "Cobalt armor",
         "name": "Cobalt Leggings",
-        "name_id": "CobaltLeggings",
-        "image": "https://terraria.wiki.gg/images/c/ca/Cobalt_Leggings.png"
+        "name_id": "CobaltLeggings"
     },
     "376": {
         "defense": 3,
@@ -669,8 +630,7 @@
         "progression_id": 2,
         "set_name": "Mythril armor",
         "name": "Mythril Hood",
-        "name_id": "MythrilHood",
-        "image": "https://terraria.wiki.gg/images/5/59/Mythril_Hood.png"
+        "name_id": "MythrilHood"
     },
     "377": {
         "defense": 16,
@@ -689,8 +649,7 @@
         "progression_id": 2,
         "set_name": "Mythril armor",
         "name": "Mythril Helmet",
-        "name_id": "MythrilHelmet",
-        "image": "https://terraria.wiki.gg/images/4/4c/Mythril_Helmet.png"
+        "name_id": "MythrilHelmet"
     },
     "378": {
         "defense": 6,
@@ -709,8 +668,7 @@
         "progression_id": 2,
         "set_name": "Mythril armor",
         "name": "Mythril Hat",
-        "name_id": "MythrilHat",
-        "image": "https://terraria.wiki.gg/images/2/27/Mythril_Hat.png"
+        "name_id": "MythrilHat"
     },
     "379": {
         "defense": 12,
@@ -737,8 +695,7 @@
         "progression_id": 2,
         "set_name": "Mythril armor",
         "name": "Mythril Chainmail",
-        "name_id": "MythrilChainmail",
-        "image": "https://terraria.wiki.gg/images/a/a8/Mythril_Chainmail.png"
+        "name_id": "MythrilChainmail"
     },
     "380": {
         "defense": 9,
@@ -761,8 +718,7 @@
         "progression_id": 2,
         "set_name": "Mythril armor",
         "name": "Mythril Greaves",
-        "name_id": "MythrilGreaves",
-        "image": "https://terraria.wiki.gg/images/2/24/Mythril_Greaves.png"
+        "name_id": "MythrilGreaves"
     },
     "397": {
         "defense": 2
@@ -788,8 +744,7 @@
         "progression_id": 2,
         "set_name": "Adamantite armor",
         "name": "Adamantite Headgear",
-        "name_id": "AdamantiteHeadgear",
-        "image": "https://terraria.wiki.gg/images/5/57/Adamantite_Headgear.png"
+        "name_id": "AdamantiteHeadgear"
     },
     "401": {
         "defense": 22,
@@ -808,8 +763,7 @@
         "progression_id": 2,
         "set_name": "Adamantite armor",
         "name": "Adamantite Helmet",
-        "name_id": "AdamantiteHelmet",
-        "image": "https://terraria.wiki.gg/images/9/90/Adamantite_Helmet.png"
+        "name_id": "AdamantiteHelmet"
     },
     "402": {
         "defense": 8,
@@ -828,8 +782,7 @@
         "progression_id": 2,
         "set_name": "Adamantite armor",
         "name": "Adamantite Mask",
-        "name_id": "AdamantiteMask",
-        "image": "https://terraria.wiki.gg/images/d/d2/Adamantite_Mask.png"
+        "name_id": "AdamantiteMask"
     },
     "403": {
         "defense": 16,
@@ -856,8 +809,7 @@
         "progression_id": 2,
         "set_name": "Adamantite armor",
         "name": "Adamantite Breastplate",
-        "name_id": "AdamantiteBreastplate",
-        "image": "https://terraria.wiki.gg/images/6/64/Adamantite_Breastplate.png"
+        "name_id": "AdamantiteBreastplate"
     },
     "404": {
         "defense": 12,
@@ -884,8 +836,7 @@
         "progression_id": 2,
         "set_name": "Adamantite armor",
         "name": "Adamantite Leggings",
-        "name_id": "AdamantiteLeggings",
-        "image": "https://terraria.wiki.gg/images/2/22/Adamantite_Leggings.png"
+        "name_id": "AdamantiteLeggings"
     },
     "410": {
         "defense": 1,
@@ -900,8 +851,7 @@
         "progression_id": 0,
         "set_name": "Mining armor",
         "name": "Mining Shirt",
-        "name_id": "MiningShirt",
-        "image": "https://terraria.wiki.gg/images/8/81/Mining_Shirt.png"
+        "name_id": "MiningShirt"
     },
     "411": {
         "defense": 1,
@@ -916,8 +866,7 @@
         "progression_id": 0,
         "set_name": "Mining armor",
         "name": "Mining Pants",
-        "name_id": "MiningPants",
-        "image": "https://terraria.wiki.gg/images/e/e5/Mining_Pants.png"
+        "name_id": "MiningPants"
     },
     "551": {
         "defense": 15,
@@ -940,8 +889,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Plate Mail",
-        "name_id": "HallowedPlateMail",
-        "image": "https://terraria.wiki.gg/images/0/00/Hallowed_Plate_Mail.png"
+        "name_id": "HallowedPlateMail"
     },
     "552": {
         "defense": 11,
@@ -972,8 +920,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Greaves",
-        "name_id": "HallowedGreaves",
-        "image": "https://terraria.wiki.gg/images/5/58/Hallowed_Greaves.png"
+        "name_id": "HallowedGreaves"
     },
     "553": {
         "defense": 9,
@@ -992,8 +939,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Helmet",
-        "name_id": "HallowedHelmet",
-        "image": "https://terraria.wiki.gg/images/5/5f/Hallowed_Helmet.png"
+        "name_id": "HallowedHelmet"
     },
     "558": {
         "defense": 5,
@@ -1016,8 +962,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Headgear",
-        "name_id": "HallowedHeadgear",
-        "image": "https://terraria.wiki.gg/images/7/7c/Hallowed_Headgear.png"
+        "name_id": "HallowedHeadgear"
     },
     "559": {
         "defense": 24,
@@ -1040,8 +985,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Mask",
-        "name_id": "HallowedMask",
-        "image": "https://terraria.wiki.gg/images/0/0a/Hallowed_Mask.png"
+        "name_id": "HallowedMask"
     },
     "684": {
         "defense": 10,
@@ -1060,8 +1004,7 @@
         "progression_id": 2,
         "set_name": "Frost armor",
         "name": "Frost Helmet",
-        "name_id": "FrostHelmet",
-        "image": "https://terraria.wiki.gg/images/9/95/Frost_Helmet.png"
+        "name_id": "FrostHelmet"
     },
     "685": {
         "defense": 20,
@@ -1080,8 +1023,7 @@
         "progression_id": 2,
         "set_name": "Frost armor",
         "name": "Frost Breastplate",
-        "name_id": "FrostBreastplate",
-        "image": "https://terraria.wiki.gg/images/5/58/Frost_Breastplate.png"
+        "name_id": "FrostBreastplate"
     },
     "686": {
         "defense": 13,
@@ -1100,8 +1042,7 @@
         "progression_id": 2,
         "set_name": "Frost armor",
         "name": "Frost Leggings",
-        "name_id": "FrostLeggings",
-        "image": "https://terraria.wiki.gg/images/f/ff/Frost_Leggings.png"
+        "name_id": "FrostLeggings"
     },
     "687": {
         "defense": 2,
@@ -1110,8 +1051,7 @@
         "progression_id": 0,
         "set_name": "Tin armor",
         "name": "Tin Helmet",
-        "name_id": "TinHelmet",
-        "image": "https://terraria.wiki.gg/images/1/1b/Tin_Helmet.png"
+        "name_id": "TinHelmet"
     },
     "688": {
         "defense": 2,
@@ -1120,8 +1060,7 @@
         "progression_id": 0,
         "set_name": "Tin armor",
         "name": "Tin Chainmail",
-        "name_id": "TinChainmail",
-        "image": "https://terraria.wiki.gg/images/2/24/Tin_Chainmail.png"
+        "name_id": "TinChainmail"
     },
     "689": {
         "defense": 1,
@@ -1130,8 +1069,7 @@
         "progression_id": 0,
         "set_name": "Tin armor",
         "name": "Tin Greaves",
-        "name_id": "TinGreaves",
-        "image": "https://terraria.wiki.gg/images/8/84/Tin_Greaves.png"
+        "name_id": "TinGreaves"
     },
     "690": {
         "defense": 3,
@@ -1140,8 +1078,7 @@
         "progression_id": 0,
         "set_name": "Lead armor",
         "name": "Lead Helmet",
-        "name_id": "LeadHelmet",
-        "image": "https://terraria.wiki.gg/images/6/64/Lead_Helmet.png"
+        "name_id": "LeadHelmet"
     },
     "691": {
         "defense": 3,
@@ -1150,8 +1087,7 @@
         "progression_id": 0,
         "set_name": "Lead armor",
         "name": "Lead Chainmail",
-        "name_id": "LeadChainmail",
-        "image": "https://terraria.wiki.gg/images/7/7a/Lead_Chainmail.png"
+        "name_id": "LeadChainmail"
     },
     "692": {
         "defense": 2,
@@ -1160,8 +1096,7 @@
         "progression_id": 0,
         "set_name": "Lead armor",
         "name": "Lead Greaves",
-        "name_id": "LeadGreaves",
-        "image": "https://terraria.wiki.gg/images/6/61/Lead_Greaves.png"
+        "name_id": "LeadGreaves"
     },
     "693": {
         "defense": 4,
@@ -1170,8 +1105,7 @@
         "progression_id": 0,
         "set_name": "Tungsten armor",
         "name": "Tungsten Helmet",
-        "name_id": "TungstenHelmet",
-        "image": "https://terraria.wiki.gg/images/2/2a/Tungsten_Helmet.png"
+        "name_id": "TungstenHelmet"
     },
     "694": {
         "defense": 5,
@@ -1180,8 +1114,7 @@
         "progression_id": 0,
         "set_name": "Tungsten armor",
         "name": "Tungsten Chainmail",
-        "name_id": "TungstenChainmail",
-        "image": "https://terraria.wiki.gg/images/f/f2/Tungsten_Chainmail.png"
+        "name_id": "TungstenChainmail"
     },
     "695": {
         "defense": 3,
@@ -1190,8 +1123,7 @@
         "progression_id": 0,
         "set_name": "Tungsten armor",
         "name": "Tungsten Greaves",
-        "name_id": "TungstenGreaves",
-        "image": "https://terraria.wiki.gg/images/9/98/Tungsten_Greaves.png"
+        "name_id": "TungstenGreaves"
     },
     "696": {
         "defense": 5,
@@ -1200,8 +1132,7 @@
         "progression_id": 0,
         "set_name": "Platinum armor",
         "name": "Platinum Helmet",
-        "name_id": "PlatinumHelmet",
-        "image": "https://terraria.wiki.gg/images/4/4b/Platinum_Helmet.png"
+        "name_id": "PlatinumHelmet"
     },
     "697": {
         "defense": 6,
@@ -1210,8 +1141,7 @@
         "progression_id": 0,
         "set_name": "Platinum armor",
         "name": "Platinum Chainmail",
-        "name_id": "PlatinumChainmail",
-        "image": "https://terraria.wiki.gg/images/2/29/Platinum_Chainmail.png"
+        "name_id": "PlatinumChainmail"
     },
     "698": {
         "defense": 5,
@@ -1220,8 +1150,7 @@
         "progression_id": 0,
         "set_name": "Platinum armor",
         "name": "Platinum Greaves",
-        "name_id": "PlatinumGreaves",
-        "image": "https://terraria.wiki.gg/images/1/18/Platinum_Greaves.png"
+        "name_id": "PlatinumGreaves"
     },
     "727": {
         "defense": 1,
@@ -1230,8 +1159,7 @@
         "progression_id": 0,
         "set_name": "Wood armor",
         "name": "Wood Helmet",
-        "name_id": "WoodHelmet",
-        "image": "https://terraria.wiki.gg/images/f/f5/Wood_Helmet.png"
+        "name_id": "WoodHelmet"
     },
     "728": {
         "defense": 1,
@@ -1240,8 +1168,7 @@
         "progression_id": 0,
         "set_name": "Wood armor",
         "name": "Wood Breastplate",
-        "name_id": "WoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/8/83/Wood_Breastplate.png"
+        "name_id": "WoodBreastplate"
     },
     "729": {
         "defense": 0,
@@ -1250,8 +1177,7 @@
         "progression_id": 0,
         "set_name": "Wood armor",
         "name": "Wood Greaves",
-        "name_id": "WoodGreaves",
-        "image": "https://terraria.wiki.gg/images/d/dd/Wood_Greaves.png"
+        "name_id": "WoodGreaves"
     },
     "730": {
         "defense": 1,
@@ -1260,8 +1186,7 @@
         "progression_id": 0,
         "set_name": "Ebonwood armor",
         "name": "Ebonwood Helmet",
-        "name_id": "EbonwoodHelmet",
-        "image": "https://terraria.wiki.gg/images/d/d2/Ebonwood_Helmet.png"
+        "name_id": "EbonwoodHelmet"
     },
     "731": {
         "defense": 2,
@@ -1270,8 +1195,7 @@
         "progression_id": 0,
         "set_name": "Ebonwood armor",
         "name": "Ebonwood Breastplate",
-        "name_id": "EbonwoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/d/db/Ebonwood_Breastplate.png"
+        "name_id": "EbonwoodBreastplate"
     },
     "732": {
         "defense": 1,
@@ -1280,8 +1204,7 @@
         "progression_id": 0,
         "set_name": "Ebonwood armor",
         "name": "Ebonwood Greaves",
-        "name_id": "EbonwoodGreaves",
-        "image": "https://terraria.wiki.gg/images/e/e2/Ebonwood_Greaves.png"
+        "name_id": "EbonwoodGreaves"
     },
     "733": {
         "defense": 1,
@@ -1290,8 +1213,7 @@
         "progression_id": 0,
         "set_name": "Rich Mahogany armor",
         "name": "Rich Mahogany Helmet",
-        "name_id": "RichMahoganyHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a1/Rich_Mahogany_Helmet.png"
+        "name_id": "RichMahoganyHelmet"
     },
     "734": {
         "defense": 1,
@@ -1300,8 +1222,7 @@
         "progression_id": 0,
         "set_name": "Rich Mahogany armor",
         "name": "Rich Mahogany Breastplate",
-        "name_id": "RichMahoganyBreastplate",
-        "image": "https://terraria.wiki.gg/images/9/95/Rich_Mahogany_Breastplate.png"
+        "name_id": "RichMahoganyBreastplate"
     },
     "735": {
         "defense": 1,
@@ -1310,8 +1231,7 @@
         "progression_id": 0,
         "set_name": "Rich Mahogany armor",
         "name": "Rich Mahogany Greaves",
-        "name_id": "RichMahoganyGreaves",
-        "image": "https://terraria.wiki.gg/images/e/e7/Rich_Mahogany_Greaves.png"
+        "name_id": "RichMahoganyGreaves"
     },
     "736": {
         "defense": 2,
@@ -1320,8 +1240,7 @@
         "progression_id": 2,
         "set_name": "Pearlwood armor",
         "name": "Pearlwood Helmet",
-        "name_id": "PearlwoodHelmet",
-        "image": "https://terraria.wiki.gg/images/5/5b/Pearlwood_Helmet.png"
+        "name_id": "PearlwoodHelmet"
     },
     "737": {
         "defense": 3,
@@ -1330,8 +1249,7 @@
         "progression_id": 2,
         "set_name": "Pearlwood armor",
         "name": "Pearlwood Breastplate",
-        "name_id": "PearlwoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/0/08/Pearlwood_Breastplate.png"
+        "name_id": "PearlwoodBreastplate"
     },
     "738": {
         "defense": 2,
@@ -1340,8 +1258,7 @@
         "progression_id": 2,
         "set_name": "Pearlwood armor",
         "name": "Pearlwood Greaves",
-        "name_id": "PearlwoodGreaves",
-        "image": "https://terraria.wiki.gg/images/8/8a/Pearlwood_Greaves.png"
+        "name_id": "PearlwoodGreaves"
     },
     "792": {
         "defense": 6,
@@ -1368,8 +1285,7 @@
         "progression_id": 1,
         "set_name": "Crimson armor",
         "name": "Crimson Helmet",
-        "name_id": "CrimsonHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a0/Crimson_Helmet.png"
+        "name_id": "CrimsonHelmet"
     },
     "793": {
         "defense": 7,
@@ -1396,8 +1312,7 @@
         "progression_id": 1,
         "set_name": "Crimson armor",
         "name": "Crimson Scalemail",
-        "name_id": "CrimsonScalemail",
-        "image": "https://terraria.wiki.gg/images/5/53/Crimson_Scalemail.png"
+        "name_id": "CrimsonScalemail"
     },
     "794": {
         "defense": 6,
@@ -1424,8 +1339,7 @@
         "progression_id": 1,
         "set_name": "Crimson armor",
         "name": "Crimson Greaves",
-        "name_id": "CrimsonGreaves",
-        "image": "https://terraria.wiki.gg/images/1/1b/Crimson_Greaves.png"
+        "name_id": "CrimsonGreaves"
     },
     "803": {
         "headSlot": 58,
@@ -1434,8 +1348,7 @@
         "progression_id": 0,
         "set_name": "Snow armor",
         "name": "Snow Hood",
-        "name_id": "EskimoHood",
-        "image": "https://terraria.wiki.gg/images/f/f9/Snow_Hood.png"
+        "name_id": "EskimoHood"
     },
     "804": {
         "bodySlot": 38,
@@ -1444,8 +1357,7 @@
         "progression_id": 0,
         "set_name": "Snow armor",
         "name": "Snow Coat",
-        "name_id": "EskimoCoat",
-        "image": "https://terraria.wiki.gg/images/2/2a/Snow_Coat.png"
+        "name_id": "EskimoCoat"
     },
     "805": {
         "legSlot": 36,
@@ -1454,8 +1366,7 @@
         "progression_id": 0,
         "set_name": "Snow armor",
         "name": "Snow Pants",
-        "name_id": "EskimoPants",
-        "image": "https://terraria.wiki.gg/images/b/bc/Snow_Pants.png"
+        "name_id": "EskimoPants"
     },
     "867": {
         "headSlot": 63,
@@ -1468,8 +1379,7 @@
         "progression_id": 0,
         "set_name": "Viking Helmet",
         "name": "Viking Helmet",
-        "name_id": "VikingHelmet",
-        "image": "https://terraria.wiki.gg/images/7/72/Viking_Helmet.png"
+        "name_id": "VikingHelmet"
     },
     "894": {
         "defense": 1,
@@ -1478,8 +1388,7 @@
         "progression_id": 0,
         "set_name": "Cactus armor",
         "name": "Cactus Helmet",
-        "name_id": "CactusHelmet",
-        "image": "https://terraria.wiki.gg/images/d/de/Cactus_Helmet.png"
+        "name_id": "CactusHelmet"
     },
     "895": {
         "defense": 1,
@@ -1488,8 +1397,7 @@
         "progression_id": 0,
         "set_name": "Cactus armor",
         "name": "Cactus Breastplate",
-        "name_id": "CactusBreastplate",
-        "image": "https://terraria.wiki.gg/images/e/e7/Cactus_Breastplate.png"
+        "name_id": "CactusBreastplate"
     },
     "896": {
         "defense": 1,
@@ -1498,8 +1406,7 @@
         "progression_id": 0,
         "set_name": "Cactus armor",
         "name": "Cactus Leggings",
-        "name_id": "CactusLeggings",
-        "image": "https://terraria.wiki.gg/images/1/11/Cactus_Leggings.png"
+        "name_id": "CactusLeggings"
     },
     "924": {
         "defense": 1,
@@ -1508,8 +1415,7 @@
         "progression_id": 0,
         "set_name": "Shadewood armor",
         "name": "Shadewood Helmet",
-        "name_id": "ShadewoodHelmet",
-        "image": "https://terraria.wiki.gg/images/d/d1/Shadewood_Helmet.png"
+        "name_id": "ShadewoodHelmet"
     },
     "925": {
         "defense": 2,
@@ -1518,8 +1424,7 @@
         "progression_id": 0,
         "set_name": "Shadewood armor",
         "name": "Shadewood Breastplate",
-        "name_id": "ShadewoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/9/99/Shadewood_Breastplate.png"
+        "name_id": "ShadewoodBreastplate"
     },
     "926": {
         "defense": 1,
@@ -1528,8 +1433,7 @@
         "progression_id": 0,
         "set_name": "Shadewood armor",
         "name": "Shadewood Greaves",
-        "name_id": "ShadewoodGreaves",
-        "image": "https://terraria.wiki.gg/images/5/5f/Shadewood_Greaves.png"
+        "name_id": "ShadewoodGreaves"
     },
     "938": {
         "defense": 6
@@ -1541,8 +1445,7 @@
         "progression_id": 0,
         "set_name": "Iron armor",
         "name": "Ancient Iron Helmet",
-        "name_id": "AncientIronHelmet",
-        "image": "https://terraria.wiki.gg/images/c/c8/Ancient_Iron_Helmet.png"
+        "name_id": "AncientIronHelmet"
     },
     "955": {
         "defense": 4,
@@ -1551,8 +1454,7 @@
         "progression_id": 0,
         "set_name": "Gold armor",
         "name": "Ancient Gold Helmet",
-        "name_id": "AncientGoldHelmet",
-        "image": "https://terraria.wiki.gg/images/d/d0/Ancient_Gold_Helmet.png"
+        "name_id": "AncientGoldHelmet"
     },
     "956": {
         "defense": 6,
@@ -1621,8 +1523,7 @@
         "progression_id": 1,
         "set_name": "Necro armor",
         "name": "Ancient Necro Helmet",
-        "name_id": "AncientNecroHelmet",
-        "image": "https://terraria.wiki.gg/images/c/c1/Ancient_Necro_Helmet.png"
+        "name_id": "AncientNecroHelmet"
     },
     "960": {
         "defense": 5,
@@ -1695,8 +1596,7 @@
         "progression_id": 3,
         "set_name": "Chlorophyte armor",
         "name": "Chlorophyte Mask",
-        "name_id": "ChlorophyteMask",
-        "image": "https://terraria.wiki.gg/images/7/7d/Chlorophyte_Mask.png"
+        "name_id": "ChlorophyteMask"
     },
     "1002": {
         "defense": 13,
@@ -1715,8 +1615,7 @@
         "progression_id": 3,
         "set_name": "Chlorophyte armor",
         "name": "Chlorophyte Helmet",
-        "name_id": "ChlorophyteHelmet",
-        "image": "https://terraria.wiki.gg/images/4/4f/Chlorophyte_Helmet.png"
+        "name_id": "ChlorophyteHelmet"
     },
     "1003": {
         "defense": 7,
@@ -1739,8 +1638,7 @@
         "progression_id": 3,
         "set_name": "Chlorophyte armor",
         "name": "Chlorophyte Headgear",
-        "name_id": "ChlorophyteHeadgear",
-        "image": "https://terraria.wiki.gg/images/6/6c/Chlorophyte_Headgear.png"
+        "name_id": "ChlorophyteHeadgear"
     },
     "1004": {
         "defense": 18,
@@ -1779,8 +1677,7 @@
         "progression_id": 3,
         "set_name": "Chlorophyte armor",
         "name": "Chlorophyte Plate Mail",
-        "name_id": "ChlorophytePlateMail",
-        "image": "https://terraria.wiki.gg/images/a/ac/Chlorophyte_Plate_Mail.png"
+        "name_id": "ChlorophytePlateMail"
     },
     "1005": {
         "defense": 13,
@@ -1807,8 +1704,7 @@
         "progression_id": 3,
         "set_name": "Chlorophyte armor",
         "name": "Chlorophyte Greaves",
-        "name_id": "ChlorophyteGreaves",
-        "image": "https://terraria.wiki.gg/images/2/2f/Chlorophyte_Greaves.png"
+        "name_id": "ChlorophyteGreaves"
     },
     "1135": {
         "headSlot": 81,
@@ -1817,8 +1713,7 @@
         "progression_id": 0,
         "set_name": "Rain armor",
         "name": "Rain Hat",
-        "name_id": "RainHat",
-        "image": "https://terraria.wiki.gg/images/e/e3/Rain_Hat.png"
+        "name_id": "RainHat"
     },
     "1136": {
         "bodySlot": 52,
@@ -1827,8 +1722,7 @@
         "progression_id": 0,
         "set_name": "Rain armor",
         "name": "Rain Coat",
-        "name_id": "RainCoat",
-        "image": "https://terraria.wiki.gg/images/2/28/Rain_Coat.png"
+        "name_id": "RainCoat"
     },
     "1159": {
         "defense": 6,
@@ -1843,8 +1737,7 @@
         "progression_id": 4,
         "set_name": "Tiki armor",
         "name": "Tiki Mask",
-        "name_id": "TikiMask",
-        "image": "https://terraria.wiki.gg/images/5/52/Tiki_Mask.png"
+        "name_id": "TikiMask"
     },
     "1160": {
         "defense": 17,
@@ -1863,8 +1756,7 @@
         "progression_id": 4,
         "set_name": "Tiki armor",
         "name": "Tiki Shirt",
-        "name_id": "TikiShirt",
-        "image": "https://terraria.wiki.gg/images/2/28/Tiki_Shirt.png"
+        "name_id": "TikiShirt"
     },
     "1161": {
         "defense": 12,
@@ -1883,8 +1775,7 @@
         "progression_id": 4,
         "set_name": "Tiki armor",
         "name": "Tiki Pants",
-        "name_id": "TikiPants",
-        "image": "https://terraria.wiki.gg/images/0/07/Tiki_Pants.png"
+        "name_id": "TikiPants"
     },
     "1205": {
         "defense": 14,
@@ -1903,8 +1794,7 @@
         "progression_id": 2,
         "set_name": "Palladium armor",
         "name": "Palladium Mask",
-        "name_id": "PalladiumMask",
-        "image": "https://terraria.wiki.gg/images/1/1f/Palladium_Mask.png"
+        "name_id": "PalladiumMask"
     },
     "1206": {
         "defense": 5,
@@ -1923,8 +1813,7 @@
         "progression_id": 2,
         "set_name": "Palladium armor",
         "name": "Palladium Helmet",
-        "name_id": "PalladiumHelmet",
-        "image": "https://terraria.wiki.gg/images/b/b5/Palladium_Helmet.png"
+        "name_id": "PalladiumHelmet"
     },
     "1207": {
         "defense": 3,
@@ -1947,8 +1836,7 @@
         "progression_id": 2,
         "set_name": "Palladium armor",
         "name": "Palladium Headgear",
-        "name_id": "PalladiumHeadgear",
-        "image": "https://terraria.wiki.gg/images/9/9f/Palladium_Headgear.png"
+        "name_id": "PalladiumHeadgear"
     },
     "1208": {
         "defense": 10,
@@ -1987,8 +1875,7 @@
         "progression_id": 2,
         "set_name": "Palladium armor",
         "name": "Palladium Breastplate",
-        "name_id": "PalladiumBreastplate",
-        "image": "https://terraria.wiki.gg/images/b/bc/Palladium_Breastplate.png"
+        "name_id": "PalladiumBreastplate"
     },
     "1209": {
         "defense": 8,
@@ -2027,8 +1914,7 @@
         "progression_id": 2,
         "set_name": "Palladium armor",
         "name": "Palladium Leggings",
-        "name_id": "PalladiumLeggings",
-        "image": "https://terraria.wiki.gg/images/8/86/Palladium_Leggings.png"
+        "name_id": "PalladiumLeggings"
     },
     "1210": {
         "defense": 19,
@@ -2051,8 +1937,7 @@
         "progression_id": 2,
         "set_name": "Orichalcum armor",
         "name": "Orichalcum Mask",
-        "name_id": "OrichalcumMask",
-        "image": "https://terraria.wiki.gg/images/5/5c/Orichalcum_Mask.png"
+        "name_id": "OrichalcumMask"
     },
     "1211": {
         "defense": 7,
@@ -2071,8 +1956,7 @@
         "progression_id": 2,
         "set_name": "Orichalcum armor",
         "name": "Orichalcum Helmet",
-        "name_id": "OrichalcumHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a0/Orichalcum_Helmet.png"
+        "name_id": "OrichalcumHelmet"
     },
     "1212": {
         "defense": 4,
@@ -2091,8 +1975,7 @@
         "progression_id": 2,
         "set_name": "Orichalcum armor",
         "name": "Orichalcum Headgear",
-        "name_id": "OrichalcumHeadgear",
-        "image": "https://terraria.wiki.gg/images/9/92/Orichalcum_Headgear.png"
+        "name_id": "OrichalcumHeadgear"
     },
     "1213": {
         "defense": 13,
@@ -2115,8 +1998,7 @@
         "progression_id": 2,
         "set_name": "Orichalcum armor",
         "name": "Orichalcum Breastplate",
-        "name_id": "OrichalcumBreastplate",
-        "image": "https://terraria.wiki.gg/images/b/b8/Orichalcum_Breastplate.png"
+        "name_id": "OrichalcumBreastplate"
     },
     "1214": {
         "defense": 10,
@@ -2147,8 +2029,7 @@
         "progression_id": 2,
         "set_name": "Orichalcum armor",
         "name": "Orichalcum Leggings",
-        "name_id": "OrichalcumLeggings",
-        "image": "https://terraria.wiki.gg/images/0/06/Orichalcum_Leggings.png"
+        "name_id": "OrichalcumLeggings"
     },
     "1215": {
         "defense": 23,
@@ -2171,8 +2052,7 @@
         "progression_id": 2,
         "set_name": "Titanium armor",
         "name": "Titanium Mask",
-        "name_id": "TitaniumMask",
-        "image": "https://terraria.wiki.gg/images/c/c1/Titanium_Mask.png"
+        "name_id": "TitaniumMask"
     },
     "1216": {
         "defense": 8,
@@ -2191,8 +2071,7 @@
         "progression_id": 2,
         "set_name": "Titanium armor",
         "name": "Titanium Helmet",
-        "name_id": "TitaniumHelmet",
-        "image": "https://terraria.wiki.gg/images/a/ad/Titanium_Helmet.png"
+        "name_id": "TitaniumHelmet"
     },
     "1217": {
         "defense": 4,
@@ -2215,8 +2094,7 @@
         "progression_id": 2,
         "set_name": "Titanium armor",
         "name": "Titanium Headgear",
-        "name_id": "TitaniumHeadgear",
-        "image": "https://terraria.wiki.gg/images/3/35/Titanium_Headgear.png"
+        "name_id": "TitaniumHeadgear"
     },
     "1218": {
         "defense": 15,
@@ -2255,8 +2133,7 @@
         "progression_id": 2,
         "set_name": "Titanium armor",
         "name": "Titanium Breastplate",
-        "name_id": "TitaniumBreastplate",
-        "image": "https://terraria.wiki.gg/images/1/1e/Titanium_Breastplate.png"
+        "name_id": "TitaniumBreastplate"
     },
     "1219": {
         "defense": 11,
@@ -2299,8 +2176,7 @@
         "progression_id": 2,
         "set_name": "Titanium armor",
         "name": "Titanium Leggings",
-        "name_id": "TitaniumLeggings",
-        "image": "https://terraria.wiki.gg/images/9/92/Titanium_Leggings.png"
+        "name_id": "TitaniumLeggings"
     },
     "1283": {
         "bodySlot": 59,
@@ -2319,8 +2195,7 @@
         "progression_id": 0,
         "set_name": "Topaz Robe",
         "name": "Topaz Robe",
-        "name_id": "TopazRobe",
-        "image": "https://terraria.wiki.gg/images/f/fd/Topaz_Robe.png"
+        "name_id": "TopazRobe"
     },
     "1284": {
         "bodySlot": 60,
@@ -2339,8 +2214,7 @@
         "progression_id": 0,
         "set_name": "Sapphire Robe",
         "name": "Sapphire Robe",
-        "name_id": "SapphireRobe",
-        "image": "https://terraria.wiki.gg/images/a/ab/Sapphire_Robe.png"
+        "name_id": "SapphireRobe"
     },
     "1285": {
         "bodySlot": 61,
@@ -2359,8 +2233,7 @@
         "progression_id": 0,
         "set_name": "Emerald Robe",
         "name": "Emerald Robe",
-        "name_id": "EmeraldRobe",
-        "image": "https://terraria.wiki.gg/images/8/8a/Emerald_Robe.png"
+        "name_id": "EmeraldRobe"
     },
     "1286": {
         "bodySlot": 62,
@@ -2379,8 +2252,7 @@
         "progression_id": 0,
         "set_name": "Ruby Robe",
         "name": "Ruby Robe",
-        "name_id": "RubyRobe",
-        "image": "https://terraria.wiki.gg/images/8/8f/Ruby_Robe.png"
+        "name_id": "RubyRobe"
     },
     "1287": {
         "defense": 3,
@@ -2399,8 +2271,7 @@
         "progression_id": 0,
         "set_name": "Diamond Robe",
         "name": "Diamond Robe",
-        "name_id": "DiamondRobe",
-        "image": "https://terraria.wiki.gg/images/a/ab/Diamond_Robe.png"
+        "name_id": "DiamondRobe"
     },
     "1316": {
         "defense": 21,
@@ -2415,8 +2286,7 @@
         "progression_id": 3,
         "set_name": "Turtle armor",
         "name": "Turtle Helmet",
-        "name_id": "TurtleHelmet",
-        "image": "https://terraria.wiki.gg/images/9/92/Turtle_Helmet.png"
+        "name_id": "TurtleHelmet"
     },
     "1317": {
         "defense": 27,
@@ -2435,8 +2305,7 @@
         "progression_id": 3,
         "set_name": "Turtle armor",
         "name": "Turtle Scale Mail",
-        "name_id": "TurtleScaleMail",
-        "image": "https://terraria.wiki.gg/images/9/92/Turtle_Scale_Mail.png"
+        "name_id": "TurtleScaleMail"
     },
     "1318": {
         "defense": 17,
@@ -2451,8 +2320,7 @@
         "progression_id": 3,
         "set_name": "Turtle armor",
         "name": "Turtle Leggings",
-        "name_id": "TurtleLeggings",
-        "image": "https://terraria.wiki.gg/images/c/c9/Turtle_Leggings.png"
+        "name_id": "TurtleLeggings"
     },
     "1503": {
         "defense": 6,
@@ -2461,8 +2329,7 @@
         "progression_id": 4,
         "set_name": "Spectre armor",
         "name": "Spectre Hood",
-        "name_id": "SpectreHood",
-        "image": "https://terraria.wiki.gg/images/9/9e/Spectre_Hood.png"
+        "name_id": "SpectreHood"
     },
     "1504": {
         "defense": 14,
@@ -2481,8 +2348,7 @@
         "progression_id": 4,
         "set_name": "Spectre armor",
         "name": "Spectre Robe",
-        "name_id": "SpectreRobe",
-        "image": "https://terraria.wiki.gg/images/c/c3/Spectre_Robe.png"
+        "name_id": "SpectreRobe"
     },
     "1505": {
         "defense": 10,
@@ -2501,8 +2367,7 @@
         "progression_id": 4,
         "set_name": "Spectre armor",
         "name": "Spectre Pants",
-        "name_id": "SpectrePants",
-        "image": "https://terraria.wiki.gg/images/2/20/Spectre_Pants.png"
+        "name_id": "SpectrePants"
     },
     "1546": {
         "defense": 11,
@@ -2521,8 +2386,7 @@
         "progression_id": 4,
         "set_name": "Shroomite armor",
         "name": "Shroomite Headgear",
-        "name_id": "ShroomiteHeadgear",
-        "image": "https://terraria.wiki.gg/images/a/ab/Shroomite_Headgear.png"
+        "name_id": "ShroomiteHeadgear"
     },
     "1547": {
         "defense": 11,
@@ -2541,8 +2405,7 @@
         "progression_id": 4,
         "set_name": "Shroomite armor",
         "name": "Shroomite Mask",
-        "name_id": "ShroomiteMask",
-        "image": "https://terraria.wiki.gg/images/f/f9/Shroomite_Mask.png"
+        "name_id": "ShroomiteMask"
     },
     "1548": {
         "defense": 11,
@@ -2561,8 +2424,7 @@
         "progression_id": 4,
         "set_name": "Shroomite armor",
         "name": "Shroomite Helmet",
-        "name_id": "ShroomiteHelmet",
-        "image": "https://terraria.wiki.gg/images/b/b5/Shroomite_Helmet.png"
+        "name_id": "ShroomiteHelmet"
     },
     "1549": {
         "defense": 24,
@@ -2585,8 +2447,7 @@
         "progression_id": 4,
         "set_name": "Shroomite armor",
         "name": "Shroomite Breastplate",
-        "name_id": "ShroomiteBreastplate",
-        "image": "https://terraria.wiki.gg/images/b/b1/Shroomite_Breastplate.png"
+        "name_id": "ShroomiteBreastplate"
     },
     "1550": {
         "defense": 16,
@@ -2605,8 +2466,7 @@
         "progression_id": 4,
         "set_name": "Shroomite armor",
         "name": "Shroomite Leggings",
-        "name_id": "ShroomiteLeggings",
-        "image": "https://terraria.wiki.gg/images/4/45/Shroomite_Leggings.png"
+        "name_id": "ShroomiteLeggings"
     },
     "1613": {
         "defense": 4
@@ -2618,8 +2478,7 @@
         "progression_id": 0,
         "set_name": "Pumpkin armor",
         "name": "Pumpkin Helmet",
-        "name_id": "PumpkinHelmet",
-        "image": "https://terraria.wiki.gg/images/b/bc/Pumpkin_Helmet.png"
+        "name_id": "PumpkinHelmet"
     },
     "1732": {
         "defense": 3,
@@ -2628,8 +2487,7 @@
         "progression_id": 0,
         "set_name": "Pumpkin armor",
         "name": "Pumpkin Breastplate",
-        "name_id": "PumpkinBreastplate",
-        "image": "https://terraria.wiki.gg/images/d/d6/Pumpkin_Breastplate.png"
+        "name_id": "PumpkinBreastplate"
     },
     "1733": {
         "defense": 2,
@@ -2638,8 +2496,7 @@
         "progression_id": 0,
         "set_name": "Pumpkin armor",
         "name": "Pumpkin Leggings",
-        "name_id": "PumpkinLeggings",
-        "image": "https://terraria.wiki.gg/images/0/05/Pumpkin_Leggings.png"
+        "name_id": "PumpkinLeggings"
     },
     "1832": {
         "headSlot": 134,
@@ -2658,8 +2515,7 @@
         "progression_id": 4,
         "set_name": "Spooky armor",
         "name": "Spooky Helmet",
-        "name_id": "SpookyHelmet",
-        "image": "https://terraria.wiki.gg/images/8/8b/Spooky_Helmet.png"
+        "name_id": "SpookyHelmet"
     },
     "1833": {
         "bodySlot": 95,
@@ -2678,8 +2534,7 @@
         "progression_id": 4,
         "set_name": "Spooky armor",
         "name": "Spooky Breastplate",
-        "name_id": "SpookyBreastplate",
-        "image": "https://terraria.wiki.gg/images/a/ae/Spooky_Breastplate.png"
+        "name_id": "SpookyBreastplate"
     },
     "1834": {
         "legSlot": 79,
@@ -2702,8 +2557,7 @@
         "progression_id": 4,
         "set_name": "Spooky armor",
         "name": "Spooky Leggings",
-        "name_id": "SpookyLeggings",
-        "image": "https://terraria.wiki.gg/images/7/74/Spooky_Leggings.png"
+        "name_id": "SpookyLeggings"
     },
     "2189": {
         "defense": 18,
@@ -2730,8 +2584,7 @@
         "progression_id": 4,
         "set_name": "Spectre armor",
         "name": "Spectre Mask",
-        "name_id": "SpectreMask",
-        "image": "https://terraria.wiki.gg/images/4/4f/Spectre_Mask.png"
+        "name_id": "SpectreMask"
     },
     "2199": {
         "defense": 23,
@@ -2746,8 +2599,7 @@
         "progression_id": 5,
         "set_name": "Beetle armor",
         "name": "Beetle Helmet",
-        "name_id": "BeetleHelmet",
-        "image": "https://terraria.wiki.gg/images/0/00/Beetle_Helmet.png"
+        "name_id": "BeetleHelmet"
     },
     "2200": {
         "defense": 20,
@@ -2774,8 +2626,7 @@
         "progression_id": 5,
         "set_name": "Beetle armor",
         "name": "Beetle Scale Mail",
-        "name_id": "BeetleScaleMail",
-        "image": "https://terraria.wiki.gg/images/6/64/Beetle_Scale_Mail.png"
+        "name_id": "BeetleScaleMail"
     },
     "2201": {
         "defense": 32,
@@ -2794,8 +2645,7 @@
         "progression_id": 5,
         "set_name": "Beetle armor",
         "name": "Beetle Shell",
-        "name_id": "BeetleShell",
-        "image": "https://terraria.wiki.gg/images/a/a2/Beetle_Shell.png"
+        "name_id": "BeetleShell"
     },
     "2202": {
         "defense": 18,
@@ -2814,8 +2664,7 @@
         "progression_id": 5,
         "set_name": "Beetle armor",
         "name": "Beetle Leggings",
-        "name_id": "BeetleLeggings",
-        "image": "https://terraria.wiki.gg/images/0/0a/Beetle_Leggings.png"
+        "name_id": "BeetleLeggings"
     },
     "2275": {
         "headSlot": 159,
@@ -2834,8 +2683,7 @@
         "progression_id": 0,
         "set_name": "Magic Hat",
         "name": "Magic Hat",
-        "name_id": "MagicHat",
-        "image": "https://terraria.wiki.gg/images/2/23/Magic_Hat.png"
+        "name_id": "MagicHat"
     },
     "2277": {
         "bodySlot": 165,
@@ -2882,8 +2730,7 @@
         "progression_id": 0,
         "set_name": "Gi",
         "name": "Gi",
-        "name_id": "Gi",
-        "image": "https://terraria.wiki.gg/images/8/82/Gi.png"
+        "name_id": "Gi"
     },
     "2279": {
         "bodySlot": 167,
@@ -2906,8 +2753,7 @@
         "progression_id": 0,
         "set_name": "Mystic Robe",
         "name": "Mystic Robe",
-        "name_id": "GypsyRobe",
-        "image": "https://terraria.wiki.gg/images/1/1d/Mystic_Robe.png"
+        "name_id": "GypsyRobe"
     },
     "2361": {
         "defense": 4,
@@ -2926,8 +2772,7 @@
         "progression_id": 1,
         "set_name": "Bee armor",
         "name": "Bee Headgear",
-        "name_id": "BeeHeadgear",
-        "image": "https://terraria.wiki.gg/images/f/fc/Bee_Headgear.png"
+        "name_id": "BeeHeadgear"
     },
     "2362": {
         "defense": 5,
@@ -2946,8 +2791,7 @@
         "progression_id": 1,
         "set_name": "Bee armor",
         "name": "Bee Breastplate",
-        "name_id": "BeeBreastplate",
-        "image": "https://terraria.wiki.gg/images/6/60/Bee_Breastplate.png"
+        "name_id": "BeeBreastplate"
     },
     "2363": {
         "defense": 4,
@@ -2962,8 +2806,7 @@
         "progression_id": 1,
         "set_name": "Bee armor",
         "name": "Bee Greaves",
-        "name_id": "BeeGreaves",
-        "image": "https://terraria.wiki.gg/images/3/3b/Bee_Greaves.png"
+        "name_id": "BeeGreaves"
     },
     "2367": {
         "defense": 1,
@@ -2994,8 +2837,7 @@
         "progression_id": 2,
         "set_name": "Spider armor",
         "name": "Spider Mask",
-        "name_id": "SpiderMask",
-        "image": "https://terraria.wiki.gg/images/5/53/Spider_Mask.png"
+        "name_id": "SpiderMask"
     },
     "2371": {
         "bodySlot": 170,
@@ -3014,8 +2856,7 @@
         "progression_id": 2,
         "set_name": "Spider armor",
         "name": "Spider Breastplate",
-        "name_id": "SpiderBreastplate",
-        "image": "https://terraria.wiki.gg/images/c/c0/Spider_Breastplate.png"
+        "name_id": "SpiderBreastplate"
     },
     "2372": {
         "legSlot": 105,
@@ -3034,8 +2875,7 @@
         "progression_id": 2,
         "set_name": "Spider armor",
         "name": "Spider Greaves",
-        "name_id": "SpiderGreaves",
-        "image": "https://terraria.wiki.gg/images/d/d4/Spider_Greaves.png"
+        "name_id": "SpiderGreaves"
     },
     "2509": {
         "defense": 1,
@@ -3044,8 +2884,7 @@
         "progression_id": 0,
         "set_name": "Boreal Wood armor",
         "name": "Boreal Wood Helmet",
-        "name_id": "BorealWoodHelmet",
-        "image": "https://terraria.wiki.gg/images/2/25/Boreal_Wood_Helmet.png"
+        "name_id": "BorealWoodHelmet"
     },
     "2510": {
         "defense": 1,
@@ -3054,8 +2893,7 @@
         "progression_id": 0,
         "set_name": "Boreal Wood armor",
         "name": "Boreal Wood Breastplate",
-        "name_id": "BorealWoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/5/5a/Boreal_Wood_Breastplate.png"
+        "name_id": "BorealWoodBreastplate"
     },
     "2511": {
         "defense": 1,
@@ -3064,8 +2902,7 @@
         "progression_id": 0,
         "set_name": "Boreal Wood armor",
         "name": "Boreal Wood Greaves",
-        "name_id": "BorealWoodGreaves",
-        "image": "https://terraria.wiki.gg/images/2/23/Boreal_Wood_Greaves.png"
+        "name_id": "BorealWoodGreaves"
     },
     "2512": {
         "defense": 1,
@@ -3074,8 +2911,7 @@
         "progression_id": 0,
         "set_name": "Palm Wood armor",
         "name": "Palm Wood Helmet",
-        "name_id": "PalmWoodHelmet",
-        "image": "https://terraria.wiki.gg/images/9/94/Palm_Wood_Helmet.png"
+        "name_id": "PalmWoodHelmet"
     },
     "2513": {
         "defense": 1,
@@ -3084,8 +2920,7 @@
         "progression_id": 0,
         "set_name": "Palm Wood armor",
         "name": "Palm Wood Breastplate",
-        "name_id": "PalmWoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/6/69/Palm_Wood_Breastplate.png"
+        "name_id": "PalmWoodBreastplate"
     },
     "2514": {
         "defense": 1,
@@ -3094,8 +2929,7 @@
         "progression_id": 0,
         "set_name": "Palm Wood armor",
         "name": "Palm Wood Greaves",
-        "name_id": "PalmWoodGreaves",
-        "image": "https://terraria.wiki.gg/images/c/c3/Palm_Wood_Greaves.png"
+        "name_id": "PalmWoodGreaves"
     },
     "2757": {
         "defense": 14,
@@ -3114,8 +2948,7 @@
         "progression_id": 6,
         "set_name": "Vortex armor",
         "name": "Vortex Helmet",
-        "name_id": "VortexHelmet",
-        "image": "https://terraria.wiki.gg/images/1/1b/Vortex_Helmet.png"
+        "name_id": "VortexHelmet"
     },
     "2758": {
         "defense": 28,
@@ -3138,8 +2971,7 @@
         "progression_id": 6,
         "set_name": "Vortex armor",
         "name": "Vortex Breastplate",
-        "name_id": "VortexBreastplate",
-        "image": "https://terraria.wiki.gg/images/8/8b/Vortex_Breastplate.png"
+        "name_id": "VortexBreastplate"
     },
     "2759": {
         "defense": 20,
@@ -3162,8 +2994,7 @@
         "progression_id": 6,
         "set_name": "Vortex armor",
         "name": "Vortex Leggings",
-        "name_id": "VortexLeggings",
-        "image": "https://terraria.wiki.gg/images/3/31/Vortex_Leggings.png"
+        "name_id": "VortexLeggings"
     },
     "2760": {
         "defense": 14,
@@ -3190,8 +3021,7 @@
         "progression_id": 6,
         "set_name": "Nebula armor",
         "name": "Nebula Helmet",
-        "name_id": "NebulaHelmet",
-        "image": "https://terraria.wiki.gg/images/d/d2/Nebula_Helmet.png"
+        "name_id": "NebulaHelmet"
     },
     "2761": {
         "defense": 18,
@@ -3210,8 +3040,7 @@
         "progression_id": 6,
         "set_name": "Nebula armor",
         "name": "Nebula Breastplate",
-        "name_id": "NebulaBreastplate",
-        "image": "https://terraria.wiki.gg/images/5/57/Nebula_Breastplate.png"
+        "name_id": "NebulaBreastplate"
     },
     "2762": {
         "defense": 14,
@@ -3230,8 +3059,7 @@
         "progression_id": 6,
         "set_name": "Nebula armor",
         "name": "Nebula Leggings",
-        "name_id": "NebulaLeggings",
-        "image": "https://terraria.wiki.gg/images/5/5e/Nebula_Leggings.png"
+        "name_id": "NebulaLeggings"
     },
     "2763": {
         "defense": 24,
@@ -3254,8 +3082,7 @@
         "progression_id": 6,
         "set_name": "Solar Flare armor",
         "name": "Solar Flare Helmet",
-        "name_id": "SolarFlareHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a7/Solar_Flare_Helmet.png"
+        "name_id": "SolarFlareHelmet"
     },
     "2764": {
         "defense": 34,
@@ -3278,8 +3105,7 @@
         "progression_id": 6,
         "set_name": "Solar Flare armor",
         "name": "Solar Flare Breastplate",
-        "name_id": "SolarFlareBreastplate",
-        "image": "https://terraria.wiki.gg/images/f/f6/Solar_Flare_Breastplate.png"
+        "name_id": "SolarFlareBreastplate"
     },
     "2765": {
         "defense": 20,
@@ -3306,8 +3132,7 @@
         "progression_id": 6,
         "set_name": "Solar Flare armor",
         "name": "Solar Flare Leggings",
-        "name_id": "SolarFlareLeggings",
-        "image": "https://terraria.wiki.gg/images/c/cc/Solar_Flare_Leggings.png"
+        "name_id": "SolarFlareLeggings"
     },
     "3016": {
         "defense": 8
@@ -3328,8 +3153,7 @@
         "progression_id": 0,
         "set_name": "Night Vision Helmet",
         "name": "Night Vision Helmet",
-        "name_id": "NightVisionHelmet",
-        "image": "https://terraria.wiki.gg/images/0/02/Night_Vision_Helmet.png"
+        "name_id": "NightVisionHelmet"
     },
     "3187": {
         "defense": 5,
@@ -3338,8 +3162,7 @@
         "progression_id": 0,
         "set_name": "Gladiator armor",
         "name": "Gladiator Helmet",
-        "name_id": "GladiatorHelmet",
-        "image": "https://terraria.wiki.gg/images/a/a1/Gladiator_Helmet.png"
+        "name_id": "GladiatorHelmet"
     },
     "3188": {
         "defense": 6,
@@ -3348,8 +3171,7 @@
         "progression_id": 0,
         "set_name": "Gladiator armor",
         "name": "Gladiator Breastplate",
-        "name_id": "GladiatorBreastplate",
-        "image": "https://terraria.wiki.gg/images/9/9f/Gladiator_Breastplate.png"
+        "name_id": "GladiatorBreastplate"
     },
     "3189": {
         "defense": 5,
@@ -3358,8 +3180,7 @@
         "progression_id": 0,
         "set_name": "Gladiator armor",
         "name": "Gladiator Leggings",
-        "name_id": "GladiatorLeggings",
-        "image": "https://terraria.wiki.gg/images/8/85/Gladiator_Leggings.png"
+        "name_id": "GladiatorLeggings"
     },
     "3266": {
         "headSlot": 185,
@@ -3374,8 +3195,7 @@
         "progression_id": 1,
         "set_name": "Obsidian armor",
         "name": "Obsidian Outlaw Hat",
-        "name_id": "ObsidianHelm",
-        "image": "https://terraria.wiki.gg/images/a/a4/Obsidian_Outlaw_Hat.png"
+        "name_id": "ObsidianHelm"
     },
     "3267": {
         "bodySlot": 187,
@@ -3390,8 +3210,7 @@
         "progression_id": 1,
         "set_name": "Obsidian armor",
         "name": "Obsidian Longcoat",
-        "name_id": "ObsidianShirt",
-        "image": "https://terraria.wiki.gg/images/f/fa/Obsidian_Longcoat.png"
+        "name_id": "ObsidianShirt"
     },
     "3268": {
         "legSlot": 127,
@@ -3406,8 +3225,7 @@
         "progression_id": 1,
         "set_name": "Obsidian armor",
         "name": "Obsidian Pants",
-        "name_id": "ObsidianPants",
-        "image": "https://terraria.wiki.gg/images/c/c0/Obsidian_Pants.png"
+        "name_id": "ObsidianPants"
     },
     "3374": {
         "defense": 4,
@@ -3422,8 +3240,7 @@
         "progression_id": 0,
         "set_name": "Fossil armor",
         "name": "Fossil Helmet",
-        "name_id": "FossilHelm",
-        "image": "https://terraria.wiki.gg/images/6/69/Fossil_Helmet.png"
+        "name_id": "FossilHelm"
     },
     "3375": {
         "defense": 5,
@@ -3438,8 +3255,7 @@
         "progression_id": 0,
         "set_name": "Fossil armor",
         "name": "Fossil Plate",
-        "name_id": "FossilShirt",
-        "image": "https://terraria.wiki.gg/images/1/14/Fossil_Plate.png"
+        "name_id": "FossilShirt"
     },
     "3376": {
         "defense": 4,
@@ -3454,8 +3270,7 @@
         "progression_id": 0,
         "set_name": "Fossil armor",
         "name": "Fossil Greaves",
-        "name_id": "FossilPants",
-        "image": "https://terraria.wiki.gg/images/6/6a/Fossil_Greaves.png"
+        "name_id": "FossilPants"
     },
     "3381": {
         "defense": 10,
@@ -3478,8 +3293,7 @@
         "progression_id": 6,
         "set_name": "Stardust armor",
         "name": "Stardust Helmet",
-        "name_id": "StardustHelmet",
-        "image": "https://terraria.wiki.gg/images/1/1c/Stardust_Helmet.png"
+        "name_id": "StardustHelmet"
     },
     "3382": {
         "defense": 16,
@@ -3502,8 +3316,7 @@
         "progression_id": 6,
         "set_name": "Stardust armor",
         "name": "Stardust Plate",
-        "name_id": "StardustBreastplate",
-        "image": "https://terraria.wiki.gg/images/d/d0/Stardust_Plate.png"
+        "name_id": "StardustBreastplate"
     },
     "3383": {
         "defense": 12,
@@ -3526,8 +3339,7 @@
         "progression_id": 6,
         "set_name": "Stardust armor",
         "name": "Stardust Leggings",
-        "name_id": "StardustLeggings",
-        "image": "https://terraria.wiki.gg/images/3/3f/Stardust_Leggings.png"
+        "name_id": "StardustLeggings"
     },
     "3776": {
         "defense": 6,
@@ -3546,8 +3358,7 @@
         "progression_id": 2,
         "set_name": "Forbidden armor",
         "name": "Forbidden Mask",
-        "name_id": "AncientBattleArmorHat",
-        "image": "https://terraria.wiki.gg/images/1/15/Forbidden_Mask.png"
+        "name_id": "AncientBattleArmorHat"
     },
     "3777": {
         "defense": 12,
@@ -3570,8 +3381,7 @@
         "progression_id": 2,
         "set_name": "Forbidden armor",
         "name": "Forbidden Robes",
-        "name_id": "AncientBattleArmorShirt",
-        "image": "https://terraria.wiki.gg/images/d/da/Forbidden_Robes.png"
+        "name_id": "AncientBattleArmorShirt"
     },
     "3778": {
         "defense": 8,
@@ -3594,8 +3404,7 @@
         "progression_id": 2,
         "set_name": "Forbidden armor",
         "name": "Forbidden Treads",
-        "name_id": "AncientBattleArmorPants",
-        "image": "https://terraria.wiki.gg/images/f/f0/Forbidden_Treads.png"
+        "name_id": "AncientBattleArmorPants"
     },
     "3797": {
         "headSlot": 203,
@@ -3622,8 +3431,7 @@
         "progression_id": 3,
         "set_name": "Apprentice armor",
         "name": "Apprentice's Hat",
-        "name_id": "ApprenticeHat",
-        "image": "https://terraria.wiki.gg/images/7/71/Apprentice%27s_Hat.png"
+        "name_id": "ApprenticeHat"
     },
     "3798": {
         "bodySlot": 200,
@@ -3646,8 +3454,7 @@
         "progression_id": 3,
         "set_name": "Apprentice armor",
         "name": "Apprentice's Robe",
-        "name_id": "ApprenticeRobe",
-        "image": "https://terraria.wiki.gg/images/8/80/Apprentice%27s_Robe.png"
+        "name_id": "ApprenticeRobe"
     },
     "3799": {
         "legSlot": 144,
@@ -3674,8 +3481,7 @@
         "progression_id": 3,
         "set_name": "Apprentice armor",
         "name": "Apprentice's Trousers",
-        "name_id": "ApprenticeTrousers",
-        "image": "https://terraria.wiki.gg/images/4/41/Apprentice%27s_Trousers.png"
+        "name_id": "ApprenticeTrousers"
     },
     "3800": {
         "headSlot": 204,
@@ -3698,8 +3504,7 @@
         "progression_id": 3,
         "set_name": "Squire armor",
         "name": "Squire's Great Helm",
-        "name_id": "SquireGreatHelm",
-        "image": "https://terraria.wiki.gg/images/e/ea/Squire%27s_Great_Helm.png"
+        "name_id": "SquireGreatHelm"
     },
     "3801": {
         "bodySlot": 201,
@@ -3722,8 +3527,7 @@
         "progression_id": 3,
         "set_name": "Squire armor",
         "name": "Squire's Plating",
-        "name_id": "SquirePlating",
-        "image": "https://terraria.wiki.gg/images/1/1d/Squire%27s_Plating.png"
+        "name_id": "SquirePlating"
     },
     "3802": {
         "legSlot": 145,
@@ -3750,8 +3554,7 @@
         "progression_id": 3,
         "set_name": "Squire armor",
         "name": "Squire's Greaves",
-        "name_id": "SquireGreaves",
-        "image": "https://terraria.wiki.gg/images/9/95/Squire%27s_Greaves.png"
+        "name_id": "SquireGreaves"
     },
     "3803": {
         "headSlot": 205,
@@ -3774,8 +3577,7 @@
         "progression_id": 3,
         "set_name": "Huntress armor",
         "name": "Huntress's Wig",
-        "name_id": "HuntressWig",
-        "image": "https://terraria.wiki.gg/images/8/8f/Huntress%27s_Wig.png"
+        "name_id": "HuntressWig"
     },
     "3804": {
         "bodySlot": 202,
@@ -3802,8 +3604,7 @@
         "progression_id": 3,
         "set_name": "Huntress armor",
         "name": "Huntress's Jerkin",
-        "name_id": "HuntressJerkin",
-        "image": "https://terraria.wiki.gg/images/e/ec/Huntress%27s_Jerkin.png"
+        "name_id": "HuntressJerkin"
     },
     "3805": {
         "legSlot": 146,
@@ -3826,8 +3627,7 @@
         "progression_id": 3,
         "set_name": "Huntress armor",
         "name": "Huntress's Pants",
-        "name_id": "HuntressPants",
-        "image": "https://terraria.wiki.gg/images/8/89/Huntress%27s_Pants.png"
+        "name_id": "HuntressPants"
     },
     "3806": {
         "headSlot": 206,
@@ -3850,8 +3650,7 @@
         "progression_id": 3,
         "set_name": "Monk armor",
         "name": "Monk's Bushy Brow Bald Cap",
-        "name_id": "MonkBrows",
-        "image": "https://terraria.wiki.gg/images/1/1d/Monk%27s_Bushy_Brow_Bald_Cap.png"
+        "name_id": "MonkBrows"
     },
     "3807": {
         "bodySlot": 203,
@@ -3874,8 +3673,7 @@
         "progression_id": 3,
         "set_name": "Monk armor",
         "name": "Monk's Shirt",
-        "name_id": "MonkShirt",
-        "image": "https://terraria.wiki.gg/images/6/6c/Monk%27s_Shirt.png"
+        "name_id": "MonkShirt"
     },
     "3808": {
         "legSlot": 148,
@@ -3902,8 +3700,7 @@
         "progression_id": 3,
         "set_name": "Monk armor",
         "name": "Monk's Pants",
-        "name_id": "MonkPants",
-        "image": "https://terraria.wiki.gg/images/e/e8/Monk%27s_Pants.png"
+        "name_id": "MonkPants"
     },
     "3871": {
         "defense": 20,
@@ -3930,8 +3727,7 @@
         "progression_id": 5,
         "set_name": "Valhalla Knight armor",
         "name": "Valhalla Knight's Helm",
-        "name_id": "SquireAltHead",
-        "image": "https://terraria.wiki.gg/images/8/8a/Valhalla_Knight%27s_Helm.png"
+        "name_id": "SquireAltHead"
     },
     "3872": {
         "defense": 24,
@@ -3954,8 +3750,7 @@
         "progression_id": 5,
         "set_name": "Valhalla Knight armor",
         "name": "Valhalla Knight's Breastplate",
-        "name_id": "SquireAltShirt",
-        "image": "https://terraria.wiki.gg/images/5/52/Valhalla_Knight%27s_Breastplate.png"
+        "name_id": "SquireAltShirt"
     },
     "3873": {
         "defense": 24,
@@ -3982,8 +3777,7 @@
         "progression_id": 5,
         "set_name": "Valhalla Knight armor",
         "name": "Valhalla Knight's Greaves",
-        "name_id": "SquireAltPants",
-        "image": "https://terraria.wiki.gg/images/9/97/Valhalla_Knight%27s_Greaves.png"
+        "name_id": "SquireAltPants"
     },
     "3874": {
         "defense": 7,
@@ -4010,8 +3804,7 @@
         "progression_id": 5,
         "set_name": "Dark Artist armor",
         "name": "Dark Artist's Hat",
-        "name_id": "ApprenticeAltHead",
-        "image": "https://terraria.wiki.gg/images/7/78/Dark_Artist%27s_Hat.png"
+        "name_id": "ApprenticeAltHead"
     },
     "3875": {
         "defense": 21,
@@ -4038,8 +3831,7 @@
         "progression_id": 5,
         "set_name": "Dark Artist armor",
         "name": "Dark Artist's Robes",
-        "name_id": "ApprenticeAltShirt",
-        "image": "https://terraria.wiki.gg/images/d/dc/Dark_Artist%27s_Robes.png"
+        "name_id": "ApprenticeAltShirt"
     },
     "3876": {
         "defense": 14,
@@ -4066,8 +3858,7 @@
         "progression_id": 5,
         "set_name": "Dark Artist armor",
         "name": "Dark Artist's Leggings",
-        "name_id": "ApprenticeAltPants",
-        "image": "https://terraria.wiki.gg/images/1/1a/Dark_Artist%27s_Leggings.png"
+        "name_id": "ApprenticeAltPants"
     },
     "3877": {
         "defense": 8,
@@ -4094,8 +3885,7 @@
         "progression_id": 5,
         "set_name": "Red Riding armor",
         "name": "Red Riding Hood",
-        "name_id": "HuntressAltHead",
-        "image": "https://terraria.wiki.gg/images/0/06/Red_Riding_Hood.png"
+        "name_id": "HuntressAltHead"
     },
     "3878": {
         "defense": 24,
@@ -4122,8 +3912,7 @@
         "progression_id": 5,
         "set_name": "Red Riding armor",
         "name": "Red Riding Dress",
-        "name_id": "HuntressAltShirt",
-        "image": "https://terraria.wiki.gg/images/d/de/Red_Riding_Dress.png"
+        "name_id": "HuntressAltShirt"
     },
     "3879": {
         "defense": 16,
@@ -4150,8 +3939,7 @@
         "progression_id": 5,
         "set_name": "Red Riding armor",
         "name": "Red Riding Leggings",
-        "name_id": "HuntressAltPants",
-        "image": "https://terraria.wiki.gg/images/8/8e/Red_Riding_Leggings.png"
+        "name_id": "HuntressAltPants"
     },
     "3880": {
         "defense": 10,
@@ -4178,8 +3966,7 @@
         "progression_id": 5,
         "set_name": "Shinobi Infiltrator armor",
         "name": "Shinobi Infiltrator's Helmet",
-        "name_id": "MonkAltHead",
-        "image": "https://terraria.wiki.gg/images/9/95/Shinobi_Infiltrator%27s_Helmet.png"
+        "name_id": "MonkAltHead"
     },
     "3881": {
         "defense": 26,
@@ -4206,8 +3993,7 @@
         "progression_id": 5,
         "set_name": "Shinobi Infiltrator armor",
         "name": "Shinobi Infiltrator's Torso",
-        "name_id": "MonkAltShirt",
-        "image": "https://terraria.wiki.gg/images/2/28/Shinobi_Infiltrator%27s_Torso.png"
+        "name_id": "MonkAltShirt"
     },
     "3882": {
         "defense": 18,
@@ -4234,8 +4020,7 @@
         "progression_id": 5,
         "set_name": "Shinobi Infiltrator armor",
         "name": "Shinobi Infiltrator's Pants",
-        "name_id": "MonkAltPants",
-        "image": "https://terraria.wiki.gg/images/1/12/Shinobi_Infiltrator%27s_Pants.png"
+        "name_id": "MonkAltPants"
     },
     "3992": {
         "defense": 8
@@ -4258,8 +4043,7 @@
         "progression_id": 0,
         "set_name": "Mining armor",
         "name": "Ultrabright Helmet",
-        "name_id": "UltrabrightHelmet",
-        "image": "https://terraria.wiki.gg/images/b/b7/Ultrabright_Helmet.png"
+        "name_id": "UltrabrightHelmet"
     },
     "4256": {
         "defense": 3,
@@ -4278,8 +4062,7 @@
         "progression_id": 0,
         "set_name": "Amber Robe",
         "name": "Amber Robe",
-        "name_id": "AmberRobe",
-        "image": "https://terraria.wiki.gg/images/d/d5/Amber_Robe.png"
+        "name_id": "AmberRobe"
     },
     "4873": {
         "defense": 1,
@@ -4298,8 +4081,7 @@
         "progression_id": 3,
         "set_name": "Hallowed armor",
         "name": "Hallowed Hood",
-        "name_id": "HallowedHood",
-        "image": "https://terraria.wiki.gg/images/e/e7/Hallowed_Hood.png"
+        "name_id": "HallowedHood"
     },
     "4896": {
         "defense": 24,
@@ -4434,8 +4216,7 @@
         "progression_id": 2,
         "set_name": "Crystal Assassin armor",
         "name": "Crystal Assassin Hood",
-        "name_id": "CrystalNinjaHelmet",
-        "image": "https://terraria.wiki.gg/images/6/61/Crystal_Assassin_Hood.png"
+        "name_id": "CrystalNinjaHelmet"
     },
     "4983": {
         "defense": 14,
@@ -4466,8 +4247,7 @@
         "progression_id": 2,
         "set_name": "Crystal Assassin armor",
         "name": "Crystal Assassin Shirt",
-        "name_id": "CrystalNinjaChestplate",
-        "image": "https://terraria.wiki.gg/images/8/8f/Crystal_Assassin_Shirt.png"
+        "name_id": "CrystalNinjaChestplate"
     },
     "4984": {
         "defense": 10,
@@ -4486,8 +4266,7 @@
         "progression_id": 2,
         "set_name": "Crystal Assassin armor",
         "name": "Crystal Assassin Pants",
-        "name_id": "CrystalNinjaLeggings",
-        "image": "https://terraria.wiki.gg/images/2/27/Crystal_Assassin_Pants.png"
+        "name_id": "CrystalNinjaLeggings"
     },
     "5001": {
         "defense": 3,
@@ -4514,8 +4293,7 @@
         "progression_id": 0,
         "set_name": "Moon Lord Legs",
         "name": "Moon Lord Legs",
-        "name_id": "MoonLordLegs",
-        "image": "https://terraria.wiki.gg/images/c/cd/Moon_Lord_Legs.png"
+        "name_id": "MoonLordLegs"
     },
     "5068": {
         "bodySlot": 241,
@@ -4534,8 +4312,7 @@
         "progression_id": 0,
         "set_name": "Flinx Fur Coat",
         "name": "Flinx Fur Coat",
-        "name_id": "FlinxFurCoat",
-        "image": "https://terraria.wiki.gg/images/9/93/Flinx_Fur_Coat.png"
+        "name_id": "FlinxFurCoat"
     },
     "5279": {
         "defense": 1,
@@ -4544,8 +4321,7 @@
         "progression_id": 0,
         "set_name": "Ash Wood armor",
         "name": "Ash Wood Helmet",
-        "name_id": "AshWoodHelmet",
-        "image": "https://terraria.wiki.gg/images/c/c3/Ash_Wood_Helmet.png"
+        "name_id": "AshWoodHelmet"
     },
     "5280": {
         "defense": 1,
@@ -4554,8 +4330,7 @@
         "progression_id": 0,
         "set_name": "Ash Wood armor",
         "name": "Ash Wood Breastplate",
-        "name_id": "AshWoodBreastplate",
-        "image": "https://terraria.wiki.gg/images/2/23/Ash_Wood_Breastplate.png"
+        "name_id": "AshWoodBreastplate"
     },
     "5281": {
         "defense": 1,
@@ -4564,7 +4339,6 @@
         "progression_id": 0,
         "set_name": "Ash Wood armor",
         "name": "Ash Wood Greaves",
-        "name_id": "AshWoodGreaves",
-        "image": "https://terraria.wiki.gg/images/d/d9/Ash_Wood_Greaves.png"
+        "name_id": "AshWoodGreaves"
     }
 }

@@ -1,3 +1,5 @@
+
+
 const Slot = {
     HEAD: 1,
     BODY: 2,
@@ -48,6 +50,8 @@ class Armor {
         this.properties = d.properties || {};
         this.properties.defense = { value: d.defense, sign: "+" };
         this.progressionId = d.progression_id;
+        this.test = 1;
+        this.image = d.image;
         if(this.progressionId === undefined) {
             this.progressionId = 100;
         }
@@ -186,3 +190,6 @@ function main() {
         getScoreFunctions(scales),0,5)))
 }
 
+function armorSetInfo(armorSet) {
+
+}
